@@ -61,12 +61,6 @@ Item {
             checked: Mycroft.GlobalSettings.usesRemoteTTS
             onCheckedChanged: Mycroft.GlobalSettings.usesRemoteTTS = checked
         }
-        
-        CheckBox {
-            id: enableRemoteSTT
-            text: i18n("Enable Remote STT")
-            checked: false
-        }
     }
 }
 
