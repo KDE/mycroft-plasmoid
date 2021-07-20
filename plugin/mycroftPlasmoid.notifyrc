@@ -29,6 +29,7 @@ Comment[sl]=Mycroft Plasmoid
 Comment[sv]=Mycroft Plasmoid
 Comment[uk]=Плазмоїд Mycroft
 Comment[x-test]=xxMycroft Plasmoidxx
+Comment[zh_CN]=Mycroft Plasmoid
 Comment[zh_TW]=Mycroft Plasmoid
 
 [Event/MycroftResponse]
@@ -61,6 +62,7 @@ Name[sl]=Mycroft odziv
 Name[sv]=Mycroft svar
 Name[uk]=Відповідь Mycroft
 Name[x-test]=xxMycroft Responsexx
+Name[zh_CN]=Mycroft 响应
 Name[zh_TW]=Mycroft 回應
 Comment=Connection to device failed
 Comment[ca]=Ha fallat la connexió amb el dispositiu
