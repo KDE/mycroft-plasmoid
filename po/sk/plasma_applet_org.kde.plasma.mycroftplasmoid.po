@@ -1,0 +1,252 @@
+# translation of plasma_applet_org.kde.plasma.mycroftplasmoid.po to Slovak
+# Roman Paholik <wizzardsk@gmail.com>, 2017, 2019, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_org.kde.plasma.mycroftplasmoid\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-04 03:06+0100\n"
+"PO-Revision-Date: 2022-04-15 19:16+0200\n"
+"Last-Translator: Roman Paholik <wizzardsk@gmail.com>\n"
+"Language-Team: Slovak <kde-sk@linux.sk>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 21.12.3\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: contents/config/config.qml:25
+#, kde-format
+msgid "General"
+msgstr "Všeobecné"
+
+#: contents/ui/BottomBarViewComponent.qml:71
+#, kde-format
+msgid "Enter Query or Say 'Hey Mycroft'"
+msgstr ""
+
+#: contents/ui/config/configGeneral.qml:45
+#, kde-format
+msgid "Websocket Address:"
+msgstr ""
+
+#: contents/ui/config/configGeneral.qml:53
+#, kde-format
+msgid "Additional Settings:"
+msgstr "Ďalšie nastavenia"
+
+#: contents/ui/config/configGeneral.qml:54
+#, kde-format
+msgid "Enable Notifications"
+msgstr "Povoliť oznámenia"
+
+#: contents/ui/config/configGeneral.qml:60
+#, kde-format
+msgid "Enable Remote TTS"
+msgstr ""
+
+#: contents/ui/FullRepresentation.qml:85
+#, kde-format
+msgid "Conversation"
+msgstr "Konverzácia"
+
+#: contents/ui/FullRepresentation.qml:91
+#, kde-format
+msgid "Hints & Tips"
+msgstr ""
+
+#: contents/ui/FullRepresentation.qml:97
+#, kde-format
+msgid "Skill Browser"
+msgstr ""
+
+#: contents/ui/SkillsInstallerComponent.qml:98
+#, kde-format
+msgid "Search Skills"
+msgstr ""
+
+#: contents/ui/SkillsInstallerComponent.qml:116
+#, kde-format
+msgid "Refresh List"
+msgstr "Obnoviť zoznam"
+
+#: contents/ui/TopBarViewComponent.qml:73
+#, kde-format
+msgid "Mycroft"
+msgstr "Mycroft"
+
+#: contents/ui/TopBarViewComponent.qml:99
+#, kde-format
+msgid "Disconnected"
+msgstr "Odpojené"
+
+#: contents/ui/TopBarViewComponent.qml:120
+#, kde-format
+msgid "Connect"
+msgstr "Pripojiť"
+
+#: contents/ui/TopBarViewComponent.qml:138
+#, kde-format
+msgid "Toggle Mic"
+msgstr ""
+
+#, fuzzy
+#~| msgid "Default Path"
+#~ msgid "Default View:"
+#~ msgstr "Predvolená cesta"
+
+#~ msgid "Remove"
+#~ msgstr "Odstrániť"
+
+#~ msgid "<i>Location: %1</i>"
+#~ msgstr "<i>Umiestnenie: %1</i>"
+
+#~ msgid "Listen"
+#~ msgstr "Počúvanie"
+
+#~ msgid "Author: %1"
+#~ msgstr "Autor: %1"
+
+#~ msgid "Publisher: %1"
+#~ msgstr "Vydavateľ: %1"
+
+#~ msgid "Release Year: %1"
+#~ msgstr "Rok vydania: %1"
+
+#~ msgid "Availability: %1"
+#~ msgstr "Dostupnosť: %1"
+
+#, fuzzy
+#~ msgid "Download"
+#~ msgstr "Stiahnuť"
+
+#~ msgid "Currency: %1"
+#~ msgstr "Mena: %1"
+
+#~ msgid "Date: %1 | Time: %2"
+#~ msgstr "Dátum: %1 | Čas: %2"
+
+#, fuzzy
+#~ msgid "Close"
+#~ msgstr "Zavrieť"
+
+#~ msgid "Condition: %1"
+#~ msgstr "Podmienka: %1"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Min: %1%2"
+#~ msgstr "Min: %1%2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Max: %1%2"
+#~ msgstr "Max: %1%2"
+
+#~ msgid "Let's Continue?"
+#~ msgstr "Ideme pokračovať?"
+
+#~ msgid "Open"
+#~ msgstr "Otvoriť"
+
+#, fuzzy
+#~| msgid "Mycroft is disabled"
+#~ msgid "<b>Disabled</b>"
+#~ msgstr "Zakázané"
+
+#, fuzzy
+#~| msgid "Mycroft is disabled"
+#~ msgid "<b>Connected</b>"
+#~ msgstr "Pripojené"
+
+#, fuzzy
+#~ msgid "<b>Connection error</b>"
+#~ msgstr "Chyba pripojenia"
+
+#, fuzzy
+#~ msgid "Settings"
+#~ msgstr "Nastavenia"
+
+#, fuzzy
+#~ msgid "Dash"
+#~ msgstr "Dok"
+
+#~ msgid "Fahrenheit"
+#~ msgstr "Fahrenheit"
+
+#, fuzzy
+#~ msgid "Version: %1"
+#~ msgstr "Verzia:  %1"
+
+#~ msgid "Uninstall"
+#~ msgstr "Odinštalovať"
+
+#, fuzzy
+#~ msgid "Install"
+#~ msgstr "Inštalovať"
+
+#, fuzzy
+#~ msgid "Update"
+#~ msgstr "Aktualizovať"
+
+#, fuzzy
+#~ msgid "Configure"
+#~ msgstr "Nastaviť"
+
+#~ msgid "Address: %1"
+#~ msgstr "Adresa: %1"
+
+#, fuzzy
+#~| msgid "Refresh List"
+#~ msgid "Refresh Dashboard"
+#~ msgstr "Obnoviť zoznam"
+
+#~ msgid "Change Settings"
+#~ msgstr "Zmeniť nastavenia"
+
+#~ msgid "View Recipe"
+#~ msgstr "Zobraziť recept"
+
+#, fuzzy
+#~| msgid "Mycroft is disabled"
+#~ msgid "<b>Command:</b> %1"
+#~ msgstr "Príkaz"
+
+#~ msgid "Answered"
+#~ msgstr "Odpovedané"
+
+#~ msgid "Replies: %1"
+#~ msgstr "Odpovedí: %1"
+
+#, fuzzy
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "Stop"
+#~ msgstr "Zastaviť"
+
+#~ msgid "Clear"
+#~ msgstr "Vyčistiť"
+
+#, fuzzy
+#~ msgid "Low"
+#~ msgstr "Nízka"
+
+#, fuzzy
+#~ msgid "High"
+#~ msgstr "Vysoká"
+
+#, fuzzy
+#~ msgid "Play"
+#~ msgstr "Prehrať"
+
+#~ msgid "Wikipedia"
+#~ msgstr "Wikipédia"
+
+#~ msgid "<i>Phone:</i> %1"
+#~ msgstr "<i>Telefón:</i> %1"
+
+#~ msgid "<i>Location:</i> %1"
+#~ msgstr "<i>Umiestnenie:</i> %1"
+
+#, fuzzy
+#~ msgid "Checkout"
+#~ msgstr "Checkout"

@@ -1,0 +1,94 @@
+# Lithuanian translations for plasma-mycroft package.
+# Copyright (C) 2019 This file is copyright:
+# This file is distributed under the same license as the plasma-mycroft package.
+# Automatically generated, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-mycroft\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-04 03:06+0100\n"
+"PO-Revision-Date: 2018-11-18 03:50+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: lt\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n%10>=2 && (n%100<10 || n"
+"%100>=20) ? 1 : n%10==0 || (n%100>10 && n%100<20) ? 2 : 3);\n"
+
+#: contents/config/config.qml:25
+#, kde-format
+msgid "General"
+msgstr ""
+
+#: contents/ui/BottomBarViewComponent.qml:71
+#, kde-format
+msgid "Enter Query or Say 'Hey Mycroft'"
+msgstr ""
+
+#: contents/ui/config/configGeneral.qml:45
+#, kde-format
+msgid "Websocket Address:"
+msgstr ""
+
+#: contents/ui/config/configGeneral.qml:53
+#, kde-format
+msgid "Additional Settings:"
+msgstr ""
+
+#: contents/ui/config/configGeneral.qml:54
+#, kde-format
+msgid "Enable Notifications"
+msgstr ""
+
+#: contents/ui/config/configGeneral.qml:60
+#, kde-format
+msgid "Enable Remote TTS"
+msgstr ""
+
+#: contents/ui/FullRepresentation.qml:85
+#, kde-format
+msgid "Conversation"
+msgstr ""
+
+#: contents/ui/FullRepresentation.qml:91
+#, kde-format
+msgid "Hints & Tips"
+msgstr ""
+
+#: contents/ui/FullRepresentation.qml:97
+#, kde-format
+msgid "Skill Browser"
+msgstr ""
+
+#: contents/ui/SkillsInstallerComponent.qml:98
+#, kde-format
+msgid "Search Skills"
+msgstr ""
+
+#: contents/ui/SkillsInstallerComponent.qml:116
+#, kde-format
+msgid "Refresh List"
+msgstr ""
+
+#: contents/ui/TopBarViewComponent.qml:73
+#, kde-format
+msgid "Mycroft"
+msgstr ""
+
+#: contents/ui/TopBarViewComponent.qml:99
+#, kde-format
+msgid "Disconnected"
+msgstr ""
+
+#: contents/ui/TopBarViewComponent.qml:120
+#, kde-format
+msgid "Connect"
+msgstr ""
+
+#: contents/ui/TopBarViewComponent.qml:138
+#, kde-format
+msgid "Toggle Mic"
+msgstr ""

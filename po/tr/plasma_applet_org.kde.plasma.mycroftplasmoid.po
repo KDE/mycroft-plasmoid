@@ -1,0 +1,93 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the mycroft-plasmoid package.
+#
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: mycroft-plasmoid\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-04 03:06+0100\n"
+"PO-Revision-Date: 2022-04-16 17:49+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#: contents/config/config.qml:25
+#, kde-format
+msgid "General"
+msgstr "Genel"
+
+#: contents/ui/BottomBarViewComponent.qml:71
+#, kde-format
+msgid "Enter Query or Say 'Hey Mycroft'"
+msgstr "Sorgu Girin veya 'Hey Mycroft' Deyin"
+
+#: contents/ui/config/configGeneral.qml:45
+#, kde-format
+msgid "Websocket Address:"
+msgstr "Web Soketi Adresi:"
+
+#: contents/ui/config/configGeneral.qml:53
+#, kde-format
+msgid "Additional Settings:"
+msgstr "Ek Ayarlar:"
+
+#: contents/ui/config/configGeneral.qml:54
+#, kde-format
+msgid "Enable Notifications"
+msgstr "Bildirimleri Etkinleştir"
+
+#: contents/ui/config/configGeneral.qml:60
+#, kde-format
+msgid "Enable Remote TTS"
+msgstr "Uzak TTS'yi Etkinleştir"
+
+#: contents/ui/FullRepresentation.qml:85
+#, kde-format
+msgid "Conversation"
+msgstr "Konuşma"
+
+#: contents/ui/FullRepresentation.qml:91
+#, kde-format
+msgid "Hints & Tips"
+msgstr "İpuçları"
+
+#: contents/ui/FullRepresentation.qml:97
+#, kde-format
+msgid "Skill Browser"
+msgstr "Yetenek Tarayıcısı"
+
+#: contents/ui/SkillsInstallerComponent.qml:98
+#, kde-format
+msgid "Search Skills"
+msgstr "Arama Yetenekleri"
+
+#: contents/ui/SkillsInstallerComponent.qml:116
+#, kde-format
+msgid "Refresh List"
+msgstr "Listeyi Yenile"
+
+#: contents/ui/TopBarViewComponent.qml:73
+#, kde-format
+msgid "Mycroft"
+msgstr "Mycroft"
+
+#: contents/ui/TopBarViewComponent.qml:99
+#, kde-format
+msgid "Disconnected"
+msgstr "Bağlantı Kesildi"
+
+#: contents/ui/TopBarViewComponent.qml:120
+#, kde-format
+msgid "Connect"
+msgstr "Bağlan"
+
+#: contents/ui/TopBarViewComponent.qml:138
+#, kde-format
+msgid "Toggle Mic"
+msgstr "Mikrofonu Aç/Kapat"

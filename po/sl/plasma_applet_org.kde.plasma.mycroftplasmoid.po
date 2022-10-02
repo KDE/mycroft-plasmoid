@@ -1,0 +1,97 @@
+# Slovenian translation of Mycroft
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-mycroft package.
+# Matjaž Jeran <matjaz.jeran@amis.net>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-mycroft\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-04 03:06+0100\n"
+"PO-Revision-Date: 2020-01-23 15:55+0100\n"
+"Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
+"Language-Team: Slovenian <lugos-slo@lugos.si>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
+"%100==4 ? 3 : 0);\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#: contents/config/config.qml:25
+#, kde-format
+msgid "General"
+msgstr "Splošno"
+
+#: contents/ui/BottomBarViewComponent.qml:71
+#, kde-format
+msgid "Enter Query or Say 'Hey Mycroft'"
+msgstr "Vnesite poizvedbo ali recite 'Hey Mycroft'"
+
+#: contents/ui/config/configGeneral.qml:45
+#, kde-format
+msgid "Websocket Address:"
+msgstr "Websocket naslov:"
+
+#: contents/ui/config/configGeneral.qml:53
+#, kde-format
+msgid "Additional Settings:"
+msgstr "Dodatne nastavitve:"
+
+#: contents/ui/config/configGeneral.qml:54
+#, kde-format
+msgid "Enable Notifications"
+msgstr "Omogoči obvestila"
+
+#: contents/ui/config/configGeneral.qml:60
+#, kde-format
+msgid "Enable Remote TTS"
+msgstr "Omogoči oddaljeno TTS"
+
+#: contents/ui/FullRepresentation.qml:85
+#, kde-format
+msgid "Conversation"
+msgstr "Pogovor"
+
+#: contents/ui/FullRepresentation.qml:91
+#, kde-format
+msgid "Hints & Tips"
+msgstr "Namigi in nasveti"
+
+#: contents/ui/FullRepresentation.qml:97
+#, kde-format
+msgid "Skill Browser"
+msgstr "Brskalnik Skill"
+
+#: contents/ui/SkillsInstallerComponent.qml:98
+#, kde-format
+msgid "Search Skills"
+msgstr "Išči Skills"
+
+#: contents/ui/SkillsInstallerComponent.qml:116
+#, kde-format
+msgid "Refresh List"
+msgstr "Osveži seznam"
+
+#: contents/ui/TopBarViewComponent.qml:73
+#, kde-format
+msgid "Mycroft"
+msgstr "Mycroft"
+
+#: contents/ui/TopBarViewComponent.qml:99
+#, kde-format
+msgid "Disconnected"
+msgstr "Odklopljen"
+
+#: contents/ui/TopBarViewComponent.qml:120
+#, kde-format
+msgid "Connect"
+msgstr "Priklopi"
+
+#: contents/ui/TopBarViewComponent.qml:138
+#, kde-format
+msgid "Toggle Mic"
+msgstr "Preklapljaj mikrofon"
+
+#~ msgid "Enable Remote STT"
+#~ msgstr "Omogoči oddaljeno STT"

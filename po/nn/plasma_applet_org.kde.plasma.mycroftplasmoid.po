@@ -1,0 +1,95 @@
+# Translation of plasma_applet_org.kde.plasma.mycroftplasmoid to Norwegian Nynorsk
+#
+# Karl Ove Hufthammer <karl@huftis.org>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: mycroft-plasmoid\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-04 03:06+0100\n"
+"PO-Revision-Date: 2020-08-28 19:00+0200\n"
+"Last-Translator: Karl Ove Hufthammer <karl@huftis.org>\n"
+"Language-Team: Norwegian Nynorsk <l10n-no@lister.huftis.org>\n"
+"Language: nn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.08.0\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: contents/config/config.qml:25
+#, kde-format
+msgid "General"
+msgstr "Generelt"
+
+#: contents/ui/BottomBarViewComponent.qml:71
+#, kde-format
+msgid "Enter Query or Say 'Hey Mycroft'"
+msgstr "Skriv førespurnad eller sei «Hey Mycroft»"
+
+#: contents/ui/config/configGeneral.qml:45
+#, kde-format
+msgid "Websocket Address:"
+msgstr "Websocket-adresse:"
+
+#: contents/ui/config/configGeneral.qml:53
+#, kde-format
+msgid "Additional Settings:"
+msgstr "Fleire innstillingar:"
+
+#: contents/ui/config/configGeneral.qml:54
+#, kde-format
+msgid "Enable Notifications"
+msgstr "Slå på varslingar"
+
+#: contents/ui/config/configGeneral.qml:60
+#, kde-format
+msgid "Enable Remote TTS"
+msgstr "Slå på ekstern talesyntese"
+
+#: contents/ui/FullRepresentation.qml:85
+#, kde-format
+msgid "Conversation"
+msgstr "Samtale"
+
+#: contents/ui/FullRepresentation.qml:91
+#, kde-format
+msgid "Hints & Tips"
+msgstr "Hint og tips"
+
+#: contents/ui/FullRepresentation.qml:97
+#, kde-format
+msgid "Skill Browser"
+msgstr "Bla gjennom evner"
+
+#: contents/ui/SkillsInstallerComponent.qml:98
+#, kde-format
+msgid "Search Skills"
+msgstr "Søk etter evner"
+
+#: contents/ui/SkillsInstallerComponent.qml:116
+#, kde-format
+msgid "Refresh List"
+msgstr "Oppdater liste"
+
+#: contents/ui/TopBarViewComponent.qml:73
+#, kde-format
+msgid "Mycroft"
+msgstr "Mycroft"
+
+#: contents/ui/TopBarViewComponent.qml:99
+#, kde-format
+msgid "Disconnected"
+msgstr "Fråkopla"
+
+#: contents/ui/TopBarViewComponent.qml:120
+#, kde-format
+msgid "Connect"
+msgstr "Kopla til"
+
+#: contents/ui/TopBarViewComponent.qml:138
+#, kde-format
+msgid "Toggle Mic"
+msgstr "Slå på/av mikrofon"

@@ -1,0 +1,96 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the mycroft-plasmoid package.
+#
+# A S Alam <aalam.yellow@gmail.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: mycroft-plasmoid\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-04 03:06+0100\n"
+"PO-Revision-Date: 2021-01-29 23:32-0800\n"
+"Last-Translator: A S Alam <aalam.yellow@gmail.com>\n"
+"Language-Team: Punjabi <punjabi-users@lists.sf.net>\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.08.1\n"
+
+#: contents/config/config.qml:25
+#, kde-format
+msgid "General"
+msgstr "ਆਮ"
+
+#: contents/ui/BottomBarViewComponent.qml:71
+#, kde-format
+msgid "Enter Query or Say 'Hey Mycroft'"
+msgstr "ਸਵਾਲ ਦਿਓ ਜਾਂ 'ਹੇ ਮਾਈਕਰੋਫਟ' ਕਹੋ"
+
+#: contents/ui/config/configGeneral.qml:45
+#, kde-format
+msgid "Websocket Address:"
+msgstr "ਵੈੱਬਸਾਕਟ ਐਡਰੈਸ:"
+
+#: contents/ui/config/configGeneral.qml:53
+#, kde-format
+msgid "Additional Settings:"
+msgstr "ਵਧੀਕ ਸੈਟਿੰਗਾਂ:"
+
+#: contents/ui/config/configGeneral.qml:54
+#, kde-format
+msgid "Enable Notifications"
+msgstr "ਨੋਟੀਫਿਕੇਸ਼ਨ ਸਮਰੱਥ ਕਰੋ"
+
+#: contents/ui/config/configGeneral.qml:60
+#, kde-format
+msgid "Enable Remote TTS"
+msgstr "ਰਿਮੋਟ TTS ਸਮਰੱਥ ਕਰੋ"
+
+#: contents/ui/FullRepresentation.qml:85
+#, kde-format
+msgid "Conversation"
+msgstr "ਗੱਲਬਾਤ"
+
+#: contents/ui/FullRepresentation.qml:91
+#, kde-format
+msgid "Hints & Tips"
+msgstr "ਇਸ਼ਾਰੇ ਤੇ ਗੁਰ"
+
+#: contents/ui/FullRepresentation.qml:97
+#, kde-format
+msgid "Skill Browser"
+msgstr "ਮੁਹਾਰਤ ਬਰਾਊਜ਼ਰ"
+
+#: contents/ui/SkillsInstallerComponent.qml:98
+#, kde-format
+msgid "Search Skills"
+msgstr "ਮੁਹਾਰਤਾਂ ਖੋਜੋ"
+
+#: contents/ui/SkillsInstallerComponent.qml:116
+#, kde-format
+msgid "Refresh List"
+msgstr "ਸੂਚੀ ਤਾਜ਼ਾ ਕਰੋ"
+
+#: contents/ui/TopBarViewComponent.qml:73
+#, kde-format
+msgid "Mycroft"
+msgstr "ਮਾਈਕਰੋਫਟ"
+
+#: contents/ui/TopBarViewComponent.qml:99
+#, kde-format
+msgid "Disconnected"
+msgstr "ਡਿਸ-ਕਨੈਕਟ ਹੈ"
+
+#: contents/ui/TopBarViewComponent.qml:120
+#, kde-format
+msgid "Connect"
+msgstr "ਕਨੈਕਟ"
+
+#: contents/ui/TopBarViewComponent.qml:138
+#, kde-format
+msgid "Toggle Mic"
+msgstr "ਮਾਈਕ ਬਦਲੋ"
+
+#~ msgid "Enable Remote STT"
+#~ msgstr "ਰਿਮੋਟ STT ਸਮਰੱਥ ਕਰੋ"

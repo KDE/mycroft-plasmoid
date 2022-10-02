@@ -1,0 +1,421 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Burkhard Lück <lueck@hube-lueck.de>, 2017, 2018, 2019, 2020, 2021.
+# Frederik Schwarzer <schwarzer@kde.org>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-04 03:06+0100\n"
+"PO-Revision-Date: 2021-05-21 05:44+0200\n"
+"Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
+"Language-Team: German <kde-i18n-de@kde.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: contents/config/config.qml:25
+#, kde-format
+msgid "General"
+msgstr "Allgemein"
+
+#: contents/ui/BottomBarViewComponent.qml:71
+#, kde-format
+msgid "Enter Query or Say 'Hey Mycroft'"
+msgstr "Abfrage eingeben oder „Hallo Mycroft“ sagen"
+
+#: contents/ui/config/configGeneral.qml:45
+#, kde-format
+msgid "Websocket Address:"
+msgstr "Websocket-Adresse:"
+
+#: contents/ui/config/configGeneral.qml:53
+#, kde-format
+msgid "Additional Settings:"
+msgstr "Zusätzliche Einstellungen:"
+
+#: contents/ui/config/configGeneral.qml:54
+#, kde-format
+msgid "Enable Notifications"
+msgstr "Benachrichtigung aktivieren"
+
+#: contents/ui/config/configGeneral.qml:60
+#, kde-format
+msgid "Enable Remote TTS"
+msgstr "Entferntes TTS aktivieren"
+
+#: contents/ui/FullRepresentation.qml:85
+#, kde-format
+msgid "Conversation"
+msgstr "Unterhaltung"
+
+#: contents/ui/FullRepresentation.qml:91
+#, kde-format
+msgid "Hints & Tips"
+msgstr "Hinweise &Tipps"
+
+#: contents/ui/FullRepresentation.qml:97
+#, kde-format
+msgid "Skill Browser"
+msgstr "Fähigkeiten-Browser"
+
+#: contents/ui/SkillsInstallerComponent.qml:98
+#, kde-format
+msgid "Search Skills"
+msgstr "Fähigkeiten suchen"
+
+#: contents/ui/SkillsInstallerComponent.qml:116
+#, kde-format
+msgid "Refresh List"
+msgstr "Liste aktualisieren"
+
+#: contents/ui/TopBarViewComponent.qml:73
+#, kde-format
+msgid "Mycroft"
+msgstr "Mycroft"
+
+#: contents/ui/TopBarViewComponent.qml:99
+#, kde-format
+msgid "Disconnected"
+msgstr "Nicht verbunden"
+
+#: contents/ui/TopBarViewComponent.qml:120
+#, kde-format
+msgid "Connect"
+msgstr "Verbinden"
+
+#: contents/ui/TopBarViewComponent.qml:138
+#, kde-format
+msgid "Toggle Mic"
+msgstr "Mikrofon umschalten"
+
+#~ msgid "Default View:"
+#~ msgstr "Standardansicht:"
+
+#~ msgid "Remove"
+#~ msgstr "Entfernen"
+
+#~ msgid "Search Online"
+#~ msgstr "Online-Suche"
+
+#~ msgid "<i>Location: %1</i>"
+#~ msgstr "<i>Ort: %1</i>"
+
+#~ msgid "Author: %1"
+#~ msgstr "Autor: %1"
+
+#~ msgid "Publisher: %1"
+#~ msgstr "Herausgeber: %1"
+
+#~ msgid "Release Year: %1"
+#~ msgstr "Veröffentlichungsjahr: %1"
+
+#~ msgid "Availability: %1"
+#~ msgstr "Verfügbarkeit: %1"
+
+#~ msgid "Read Online"
+#~ msgstr "Online lesen"
+
+#~ msgid "Download"
+#~ msgstr "Herunterladen"
+
+#~ msgid "Minimum Temperature: %1"
+#~ msgstr "Minimale Temperatur: %1"
+
+#~ msgid "Current Temperature: %1"
+#~ msgstr "Aktuelle Temperatur: %1"
+
+#~ msgid "Maximum Temperature: %1"
+#~ msgstr "Maximale Temperatur: %1"
+
+#~ msgid "Share Via Email"
+#~ msgstr "Als E-Mail teilen"
+
+#~ msgid "Currency: %1"
+#~ msgstr "Währung: %1"
+
+#~ msgctxt "%1 is the currency symbol, %2 is the current rate"
+#~ msgid "%1: %2"
+#~ msgstr "%1: %2"
+
+#~ msgid "Remove Card"
+#~ msgstr "Karte entfernen"
+
+#~ msgid "Disable Cryptocurrency Card"
+#~ msgstr "Kryptowährungs-Karte deaktivieren"
+
+#~ msgid "<i>Powered By: NewsAPI</i>"
+#~ msgstr "<i>Unterstützt von: NewsAPI</i>"
+
+#~ msgid "Disable News Cards"
+#~ msgstr "Neue Karten deaktivieren"
+
+#~ msgid "%1 | %2"
+#~ msgstr "%1 | %2"
+
+#~ msgid "Wind | %1 meters/sec"
+#~ msgstr "Wind | %1 Meter/sec"
+
+#~ msgid "Date: %1 | Time: %2"
+#~ msgstr "Datum: %1 | Zeit: %2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Minimum Temperature: %1%2"
+#~ msgstr "Minimale Temperatur: %1 %2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Current Temperature: %1%2"
+#~ msgstr "Aktuelle Temperatur: %1 %2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Maximum Temperature: %1%2"
+#~ msgstr "Maximale Temperatur: %1 %2"
+
+#~ msgid "Expand Forecast"
+#~ msgstr "Vorhersage erweitern"
+
+#~ msgid "Close"
+#~ msgstr "Schließen"
+
+#~ msgctxt "D stand for Day, T stands for Time"
+#~ msgid "D: %1 | T: %2"
+#~ msgstr "T: %1 | Z: %2"
+
+#~ msgid "Condition: %1"
+#~ msgstr "Bedingung: %1"
+
+#~ msgid "Wind: %1 meters/sec"
+#~ msgstr "Wind: %1 Meter/sec"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Min: %1%2"
+#~ msgstr "Min: %1 %2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Max: %1%2"
+#~ msgstr "Max: %1 %2"
+
+#~ msgid "<i>Powered By: OpenWeatherMap</i>"
+#~ msgstr "<i>Unterstützt von: OpenWeatherMap</i>"
+
+#~ msgid "Disable Weather Cards"
+#~ msgstr "Wetter-Karten deaktivieren"
+
+#~ msgid "Let's Continue?"
+#~ msgstr "Fortfahren?"
+
+#~ msgid "Open"
+#~ msgstr "Öffnen"
+
+#~ msgid "OCR Recognition"
+#~ msgstr "OCR-Erkennung"
+
+#~ msgid ""
+#~ "I am not connected to the internet, Please check your network connection"
+#~ msgstr ""
+#~ "Keine Verbindung zum Internet, bitte überprüfen Sie Ihre "
+#~ "Netzwerkverbindung"
+
+#~ msgid "<b>Disabled</b>"
+#~ msgstr "<b>Deaktiviert</b>"
+
+#~ msgid "<b>Connected</b>"
+#~ msgstr "<b>Verbunden</b>"
+
+#~ msgid "<b>Connection error</b>"
+#~ msgstr "<b>Verbindungsfehler</b>"
+
+#~ msgid "<b>Shutting down</b>"
+#~ msgstr "<b>Herunterfahren</b>"
+
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"
+
+#~ msgid "<i>Your Mycroft Core Installation Path</i>"
+#~ msgstr "<i>Installationspfad zum Mycroft-Hauptprogramm</i>"
+
+#~ msgid "Location of Mycroft-Core Directory"
+#~ msgstr "Ort des Mycroft-Ordners"
+
+#~ msgid "<custom location>/mycroft-core/"
+#~ msgstr "<custom location>/mycroft-core/"
+
+#~ msgid "ws://0.0.0.0:8181/core"
+#~ msgstr "ws://0.0.0.0:8181/core"
+
+#~ msgid "RJVUY3-T6YLWQVXRR"
+#~ msgstr "RJVUY3-T6YLWQVXRR"
+
+#~ msgid "Enable / Disable Cryptocurrency Card"
+#~ msgstr "Kryptowährungs-Karte aktivieren / deaktivieren"
+
+#~ msgid "Selected CryptoCurrency:"
+#~ msgstr "Ausgewählte Kryptowährung:"
+
+#~ msgid "Display Currencies:"
+#~ msgstr "Währungen anzeigen:"
+
+#~ msgid "Enable / Disable Weather Card"
+#~ msgstr "Wetter-Karte aktivieren / deaktivieren"
+
+#~ msgid "Celcius"
+#~ msgstr "Celsius"
+
+#~ msgid "Fahrenheit"
+#~ msgstr "Fahrenheit"
+
+#~ msgid "Version: %1"
+#~ msgstr "Version: %1"
+
+#~ msgid "Uninstall"
+#~ msgstr "Deinstallieren"
+
+#~ msgid "Install"
+#~ msgstr "Installieren"
+
+#~ msgid "Update"
+#~ msgstr "Aktualisieren"
+
+#~ msgid "Configure"
+#~ msgstr "Einrichten"
+
+#~ msgctxt "mtrs stands for meters"
+#~ msgid "Distance: %1 <i>mtrs</i>"
+#~ msgstr "Entfernung: %1 <i>m</i>"
+
+#~ msgid "Address: %1"
+#~ msgstr "Adresse: %1"
+
+#~ msgid "<i>Powered By: Here.API</i>"
+#~ msgstr "<i>Unterstützt von: Here.API</i>"
+
+#, fuzzy
+#~| msgid "Refresh List"
+#~ msgid "Refresh Dashboard"
+#~ msgstr "Liste aktualisieren"
+
+#~ msgid "Change Settings"
+#~ msgstr "Einstellungen ändern"
+
+#~ msgid "<i>Calories:</i> %1 <b>cal</b>"
+#~ msgstr "<i>Kalorien:</i> %1 <b>cal</b>"
+
+#~ msgid "<i>Diet Type:</i> %1"
+#~ msgstr "<i>Diätart:</i> %1"
+
+#~ msgid "View Recipe"
+#~ msgstr "Rezept-Ansicht"
+
+#~ msgid "<i>Recipe Source: %1</i>"
+#~ msgstr "<i>Rezeptquelle: %1</i>"
+
+#~ msgid "<i>Powered By: Edamam.com</i>"
+#~ msgstr "<i>Unterstützt von: Edamam.com</i>"
+
+#~ msgid "Close Ingredients List"
+#~ msgstr "Zutatenliste schließen"
+
+#~ msgid "<b>Command:</b> %1"
+#~ msgstr "<b>Befehl:</b> %1"
+
+#~ msgid "<i>%1</i>"
+#~ msgstr "<i>%1</i>"
+
+#~ msgid "Answered"
+#~ msgstr "Beantwortet"
+
+#~ msgid "Unanswered"
+#~ msgstr "Unbeantwortet"
+
+#~ msgid "Replies: %1"
+#~ msgstr "Antworten: %1"
+
+#~ msgid "Powered By StackOverflow"
+#~ msgstr "Unterstützt von StackOverflow"
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "128.89"
+#~ msgstr "128,89"
+
+#~ msgid "Stop"
+#~ msgstr "Anhalten"
+
+#~ msgid "Clear"
+#~ msgstr "Leeren"
+
+#~ msgid "Low"
+#~ msgstr "Niedrig"
+
+#~ msgid "100"
+#~ msgstr "100"
+
+#~ msgid "°"
+#~ msgstr "°"
+
+#~ msgid "High"
+#~ msgstr "Hoch"
+
+#~ msgid "Tomorrow's Weather"
+#~ msgstr "Wetter von Morgen"
+
+#~ msgid "Play"
+#~ msgstr "Wiedergabe"
+
+#~ msgid "Wikipedia"
+#~ msgstr "Wikipedia"
+
+#~ msgid "<i>Phone:</i> %1"
+#~ msgstr "<i>Telefon:</i> %1"
+
+#~ msgid "<i>Location:</i> %1"
+#~ msgstr "<i>Ort:</i> %1"
+
+#~ msgid "<i>Rating:</i> %1 Stars"
+#~ msgstr "<i>Bewertung:</i> %1 Sterne"
+
+#~ msgid "Send As Text"
+#~ msgstr "Als Text senden"
+
+#~ msgid "<i>Powered By: Yelp.com</i>"
+#~ msgstr "<i>Unterstützt von: Yelp.com</i>"
+
+#, fuzzy
+#~| msgid "Date: %1 | Time: %2"
+#~ msgid "Date & Time"
+#~ msgstr "Datum: %1 | Zeit: %2"
+
+#~ msgid " : "
+#~ msgstr " : "
+
+#~ msgid " | "
+#~ msgstr " | "
+
+#~ msgid "Date: "
+#~ msgstr "Datum: "
+
+#, fuzzy
+#~| msgid " | "
+#~ msgid "D: "
+#~ msgstr " | "
+
+#, fuzzy
+#~| msgid "<b>Mycroft is ready</b>"
+#~ msgid "<b>Ready</b>"
+#~ msgstr "<b>Mycroft ist bereit</b>"
+
+#~ msgid "USD: $"
+#~ msgstr "USD: $"
+
+#~ msgid "GBP: £"
+#~ msgstr "GBP: £"
+
+#~ msgid "EURO: €"
+#~ msgstr "EURO: €"
+
+#~ msgid "Mycroft is Disabled"
+#~ msgstr "Mycroft ist deaktiviert"

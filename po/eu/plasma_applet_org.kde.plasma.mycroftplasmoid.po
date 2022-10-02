@@ -1,0 +1,99 @@
+# Translation for plasma_applet_org.kde.plasma.mycroftplasmoid.po to Euskara/Basque (eu).
+# Copyright (C) 2020, This file is copyright:
+# This file is distributed under the same license as the mycroft-plasmoid package.
+# KDE euskaratzeko proiektuko arduraduna <xalba@euskalnet.net>.
+#
+# Translators:
+# Iñigo Salvador Azurmendi <xalba@ni.eus>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: mycroft-plasmoid\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-04 03:06+0100\n"
+"PO-Revision-Date: 2020-07-27 20:36+0200\n"
+"Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
+"Language-Team: Basque <kde-i18n-eu@kde.org>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 20.04.3\n"
+
+#: contents/config/config.qml:25
+#, kde-format
+msgid "General"
+msgstr "Orokorra"
+
+#: contents/ui/BottomBarViewComponent.qml:71
+#, kde-format
+msgid "Enter Query or Say 'Hey Mycroft'"
+msgstr "Sartu itauna edo esan «Kaixo Mycroft»"
+
+#: contents/ui/config/configGeneral.qml:45
+#, kde-format
+msgid "Websocket Address:"
+msgstr "Web-hargunearen helbidea:"
+
+#: contents/ui/config/configGeneral.qml:53
+#, kde-format
+msgid "Additional Settings:"
+msgstr "Ezarpen osagarriak:"
+
+#: contents/ui/config/configGeneral.qml:54
+#, kde-format
+msgid "Enable Notifications"
+msgstr "Gaitu jakinarazpenak"
+
+#: contents/ui/config/configGeneral.qml:60
+#, kde-format
+msgid "Enable Remote TTS"
+msgstr "Gaitu urrutiko TTS"
+
+#: contents/ui/FullRepresentation.qml:85
+#, kde-format
+msgid "Conversation"
+msgstr "Solasaldia"
+
+#: contents/ui/FullRepresentation.qml:91
+#, kde-format
+msgid "Hints & Tips"
+msgstr "Aholkuak eta argibideak"
+
+#: contents/ui/FullRepresentation.qml:97
+#, kde-format
+msgid "Skill Browser"
+msgstr "Trebetasun arakatzailea"
+
+#: contents/ui/SkillsInstallerComponent.qml:98
+#, kde-format
+msgid "Search Skills"
+msgstr "Bilatu trebetasunak"
+
+#: contents/ui/SkillsInstallerComponent.qml:116
+#, kde-format
+msgid "Refresh List"
+msgstr "Freskatu zerrenda"
+
+#: contents/ui/TopBarViewComponent.qml:73
+#, kde-format
+msgid "Mycroft"
+msgstr "Mycroft"
+
+#: contents/ui/TopBarViewComponent.qml:99
+#, kde-format
+msgid "Disconnected"
+msgstr "Deskonektatuta"
+
+#: contents/ui/TopBarViewComponent.qml:120
+#, kde-format
+msgid "Connect"
+msgstr "Konektatu"
+
+#: contents/ui/TopBarViewComponent.qml:138
+#, kde-format
+msgid "Toggle Mic"
+msgstr "Txandakatu mikrofonoa"
+
+#~ msgid "Enable Remote STT"
+#~ msgstr "Gaitu urrutiko STT"

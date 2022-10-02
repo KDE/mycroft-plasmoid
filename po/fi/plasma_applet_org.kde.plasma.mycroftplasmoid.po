@@ -1,0 +1,524 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Tommi Nieminen <translator@legisign.org>, 2018, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-04 03:06+0100\n"
+"PO-Revision-Date: 2019-08-28 18:04+0300\n"
+"Last-Translator: Tommi Nieminen <translator@legisign.org>\n"
+"Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 18.12.3\n"
+
+#: contents/config/config.qml:25
+#, kde-format
+msgid "General"
+msgstr "Yleistä"
+
+#: contents/ui/BottomBarViewComponent.qml:71
+#, kde-format
+msgid "Enter Query or Say 'Hey Mycroft'"
+msgstr "Syötä kysely tai sano ”Hei Mycroft”"
+
+#: contents/ui/config/configGeneral.qml:45
+#, kde-format
+msgid "Websocket Address:"
+msgstr "Websocket-osoite:"
+
+#: contents/ui/config/configGeneral.qml:53
+#, kde-format
+msgid "Additional Settings:"
+msgstr "Lisäasetukset:"
+
+#: contents/ui/config/configGeneral.qml:54
+#, kde-format
+msgid "Enable Notifications"
+msgstr "Käytä ilmoituksia"
+
+#: contents/ui/config/configGeneral.qml:60
+#, kde-format
+msgid "Enable Remote TTS"
+msgstr "Käytä etä-TTS:ää"
+
+#: contents/ui/FullRepresentation.qml:85
+#, kde-format
+msgid "Conversation"
+msgstr "Keskustelu"
+
+#: contents/ui/FullRepresentation.qml:91
+#, kde-format
+msgid "Hints & Tips"
+msgstr "Vihjeet"
+
+#: contents/ui/FullRepresentation.qml:97
+#, kde-format
+msgid "Skill Browser"
+msgstr "Kykyselain"
+
+#: contents/ui/SkillsInstallerComponent.qml:98
+#, kde-format
+msgid "Search Skills"
+msgstr "Etsi kykyjä"
+
+#: contents/ui/SkillsInstallerComponent.qml:116
+#, kde-format
+msgid "Refresh List"
+msgstr "Päivitä luettelo"
+
+#: contents/ui/TopBarViewComponent.qml:73
+#, kde-format
+msgid "Mycroft"
+msgstr "Mycroft"
+
+#: contents/ui/TopBarViewComponent.qml:99
+#, kde-format
+msgid "Disconnected"
+msgstr "Ei yhteyttä"
+
+#: contents/ui/TopBarViewComponent.qml:120
+#, kde-format
+msgid "Connect"
+msgstr "Yhdistä"
+
+#: contents/ui/TopBarViewComponent.qml:138
+#, kde-format
+msgid "Toggle Mic"
+msgstr "Käytä/älä käytä mikkiä"
+
+#~ msgid "Enable Remote STT"
+#~ msgstr "Käytä etä-STT:tä"
+
+#~ msgid "Default View:"
+#~ msgstr "Oletusnäkymä:"
+
+#~ msgid "Remove"
+#~ msgstr "Poista"
+
+#~ msgid "Search Online"
+#~ msgstr "Etsi verkosta"
+
+#~ msgid "<i>Location: %1</i>"
+#~ msgstr "<i>Sijainti: %1</i>"
+
+#~ msgid "Listen"
+#~ msgstr "Kuuntele"
+
+#~ msgid "Author: %1"
+#~ msgstr "Tekijä: %1"
+
+#~ msgid "Publisher: %1"
+#~ msgstr "Julkaisija: %1"
+
+#~ msgid "Release Year: %1"
+#~ msgstr "Julkaisuvuosi: %1"
+
+#~ msgid "Availability: %1"
+#~ msgstr "Saatavuus: %1"
+
+#~ msgid "Read Online"
+#~ msgstr "Lue verkossa"
+
+#~ msgid "Download"
+#~ msgstr "Lataa"
+
+#~ msgid "Minimum Temperature: %1"
+#~ msgstr "Vähimmäislämpötila: %1"
+
+#~ msgid "Current Temperature: %1"
+#~ msgstr "Tämänhetkinen lämpötila: %1"
+
+#~ msgid "Maximum Temperature: %1"
+#~ msgstr "Enimmäislämpötila: %1"
+
+#~ msgid "Share Via Email"
+#~ msgstr "Jaa sähköpostitse"
+
+#~ msgid "Currency: %1"
+#~ msgstr "Valuutta: %1"
+
+#~ msgctxt "%1 is the currency symbol, %2 is the current rate"
+#~ msgid "%1: %2"
+#~ msgstr "%1: %2"
+
+#~ msgid "Remove Card"
+#~ msgstr "Poista kortti"
+
+#~ msgid "Disable Cryptocurrency Card"
+#~ msgstr "Poista salauskortti käytöstä"
+
+#~ msgid "<i>Powered By: NewsAPI</i>"
+#~ msgstr "<i>Toimii NewsAPIn avulla</i>"
+
+#~ msgid "Play / Listen To News Article"
+#~ msgstr "Toista ja kuuntele uutisartikkeli"
+
+#~ msgid "Share News Link"
+#~ msgstr "Jaa uutislinkki"
+
+#~ msgid "Disable News Cards"
+#~ msgstr "Poista uutiskortit käytöstä"
+
+#~ msgid "%1 | %2"
+#~ msgstr "%1 | %2"
+
+#~ msgid "Wind | %1 meters/sec"
+#~ msgstr "Tuuli | %1 m/s"
+
+#~ msgid "Date: %1 | Time: %2"
+#~ msgstr "Päivä: %1 | Aika: %2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Minimum Temperature: %1%2"
+#~ msgstr "Vähimmäislämpötila: %1%2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Current Temperature: %1%2"
+#~ msgstr "Tämänhetkinen lämpötila: %1%2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Maximum Temperature: %1%2"
+#~ msgstr "Enimmäislämpötila: %1%2"
+
+#~ msgid "Expand Forecast"
+#~ msgstr "Laajenna ennustetta"
+
+#~ msgid "Close"
+#~ msgstr "Sulje"
+
+#~ msgctxt "D stand for Day, T stands for Time"
+#~ msgid "D: %1 | T: %2"
+#~ msgstr "P: %1 | K: %2"
+
+# *** TARKISTA: Tämä voi olla myös ”olosuhteet”, pitäisi vain tietää
+#~ msgid "Condition: %1"
+#~ msgstr "Ehto: %1"
+
+#~ msgid "Wind: %1 meters/sec"
+#~ msgstr "Tuuli: %1 m/s"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Min: %1%2"
+#~ msgstr "Väh: %1%2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Max: %1%2"
+#~ msgstr "Enint: %1%2"
+
+#~ msgid "<i>Powered By: OpenWeatherMap</i>"
+#~ msgstr "<i>Toimii OpenWeatherMapin avulla</i>"
+
+#~ msgid "Disable Weather Cards"
+#~ msgstr "Poista sääkortit käytöstä"
+
+#~ msgid "Let's Continue?"
+#~ msgstr "Jatketaanko?"
+
+#~ msgid ""
+#~ "Mycroft by default is powered by a cloud-based speech to text service. "
+#~ "Mycroft gives you the ability to change speech to text services or use a "
+#~ "locally configured one within their settings at home.mycroft.ai. If you "
+#~ "agree to the default usage of Mycroft’s speech to text service, please "
+#~ "continue. Also remember you can always choose to turn off or mute Mycroft "
+#~ "when you do not wish to use it."
+#~ msgstr ""
+#~ "Oletusarvoisesti Mycroft käyttää verkon puhesyntetisaattoripalveluja. "
+#~ "Mycroftilla voit osoitteessa home.mycroft.ai vaihtaa verkkopalvelua tai "
+#~ "käyttää paikallisesti asetettua palvelua. Jatka, jos hyväksyt Mycroftin "
+#~ "oletuspuhesyntetisaattoripalvelun. Muista, että voit aina poistaa "
+#~ "Mycroftin käytöstä tai vaimentaa sen, ellet halua käyttää sitä."
+
+#~ msgid "To start using Mycroft toggle the switch in the upper right corner!"
+#~ msgstr "Aloita Mycroftin käyttö napsauttamalla oikean yläkulman kytkintä!"
+
+#~ msgid ""
+#~ "Mycroft by default is powered by a cloud-based speech to text service. "
+#~ "Mycroft gives you the ability to change speech to text services or use a "
+#~ "locally configured one within their settings at home.mycroft.ai."
+#~ msgstr ""
+#~ "Oletusarvoisesti Mycroft käyttää verkon puhesyntetisaattoripalveluja. "
+#~ "Mycroft antaa sinun vaihtaa puhesyntetisaattoripalvelun paikallisesti "
+#~ "asetetuksi sivun home.mycroft.ai asetuksista."
+
+#, fuzzy
+#~| msgid "Enable / Disable Weather Card"
+#~ msgid "Disable Disclaimer Card"
+#~ msgstr "Ota sääkortti käyttöön tai poista se käytöstä"
+
+#~ msgid "Open"
+#~ msgstr "Avaa"
+
+#~ msgid "Broad Recognition"
+#~ msgstr "Lavea tunnistus"
+
+#~ msgid "OCR Recognition"
+#~ msgstr "OCR-tunnistus"
+
+#~ msgid ""
+#~ "I am not connected to the internet, Please check your network connection"
+#~ msgstr "Ei yhteyttä verkkoon. Tarkista verkkoyhteys"
+
+#~ msgid "<b>Disabled</b>"
+#~ msgstr "<b>Ei käytössä</b>"
+
+#~ msgid "<b>Starting up..please wait</b>"
+#~ msgstr "<b>Käynnistetään… Odota</p>"
+
+#~ msgid "<b>Connected</b>"
+#~ msgstr "<b>Yhdistetty</b>"
+
+#~ msgid "Ready..Let's Talk"
+#~ msgstr "Valmis… Puhutaan"
+
+#~ msgid "<b>Connection error</b>"
+#~ msgstr "<b>Yhteysvirhe</b>"
+
+#~ msgid "<b>Shutting down</b>"
+#~ msgstr "<b>Suljetaan</b>"
+
+#~ msgid "Settings"
+#~ msgstr "Asetukset"
+
+#~ msgid "Dash"
+#~ msgstr "Katkoviiva"
+
+#~ msgid "<i>Your Mycroft Core Installation Path</i>"
+#~ msgstr "<i>Mycroft-perusasennuksen sijainti</i>"
+
+#~ msgid "Installed Using Mycroft Package"
+#~ msgstr "Asennettu Mycroft-pakettia käyttäen"
+
+#~ msgid "Location of Mycroft-Core Directory"
+#~ msgstr "Mycroft-Core-kansion sijainti"
+
+#~ msgid "<custom location>/mycroft-core/"
+#~ msgstr "<custom location>/mycroft-core/"
+
+#~ msgid "ws://0.0.0.0:8181/core"
+#~ msgstr "ws://0.0.0.0:8181/core"
+
+#~ msgid "search image url"
+#~ msgstr "etsi kuvan osoitetta"
+
+#~ msgid "ocr image url"
+#~ msgstr "OCR-kuvan verkko-osoite"
+
+#~ msgid "Enable Fallback To Wolfram Alpha Web-Search"
+#~ msgstr "Käytä varalla Wolfram Alphan verkkohakua"
+
+#~ msgid "Wolfram Alpha API:"
+#~ msgstr "Wolfram Alphan API:"
+
+#~ msgid "RJVUY3-T6YLWQVXRR"
+#~ msgstr "RJVUY3-T6YLWQVXRR"
+
+#~ msgid ""
+#~ "<i>Please Note: Default path is set to /home/$USER/mycroft-core/. Change "
+#~ "the above settings to match your installation</i>"
+#~ msgstr ""
+#~ "<i>Huomaa: Oletussijainniksi on asetettu /home/$USER/mycroft-core/. Muuta "
+#~ "asetus yltä vastaamaan asennustasi.</i>"
+
+#~ msgid "Enable / Disable Dashboard"
+#~ msgstr "Ota kojelauta käyttöön tai poista se käytöstä"
+
+#~ msgid "Enable / Disable News Card"
+#~ msgstr "Ota uutiskortti käyttöön tai poista se käytöstä"
+
+#~ msgid "Enable / Disable Cryptocurrency Card"
+#~ msgstr "Ota salauskortti käyttöön tai poista se käytöstä"
+
+#~ msgid "Selected CryptoCurrency:"
+#~ msgstr "Valittu kryptovaluutta:"
+
+#~ msgid "Display Currencies:"
+#~ msgstr "Näytä valuutat:"
+
+#~ msgid "NewsApi App_Key:"
+#~ msgstr "NewsApin sovellusavain:"
+
+#~ msgid "Enable / Disable Weather Card"
+#~ msgstr "Ota sääkortti käyttöön tai poista se käytöstä"
+
+#~ msgid "Open Weather Map App_ID:"
+#~ msgstr "Open Weather Mapin sovellusavain:"
+
+#~ msgid "Celcius"
+#~ msgstr "Celsius"
+
+#~ msgid "Fahrenheit"
+#~ msgstr "Fahrenheit"
+
+#~ msgid "Version: %1"
+#~ msgstr "Versio: %1"
+
+#~ msgid "Uninstall"
+#~ msgstr "Poista asennus"
+
+#~ msgid "Install"
+#~ msgstr "Asenna"
+
+#~ msgid "Update"
+#~ msgstr "Päivitä"
+
+#~ msgid "Readme"
+#~ msgstr "Readme"
+
+#~ msgid "Configure"
+#~ msgstr "Asetukset"
+
+#~ msgctxt "mtrs stands for meters"
+#~ msgid "Distance: %1 <i>mtrs</i>"
+#~ msgstr "Etäisyys: %1 <i>m</i>"
+
+#~ msgid "Address: %1"
+#~ msgstr "Osoite: %1"
+
+#~ msgid "<i>Powered By: Here.API</i>"
+#~ msgstr "<i>Toimii Here.APIn avulla</i>"
+
+#~ msgid "Refresh Dashboard"
+#~ msgstr "Virkistä kojelauta"
+
+#~ msgid "Change Settings"
+#~ msgstr "Muuta asetuksia"
+
+#~ msgid "<i>Calories:</i> %1 <b>cal</b>"
+#~ msgstr "<i>Kaloreja:</i> %1 <b>cal</b>"
+
+#~ msgid "<i>Diet Type:</i> %1"
+#~ msgstr "<i>Dieetin tyyppi:</i> %1"
+
+#~ msgid "<i>Health Tags:</i> %1"
+#~ msgstr "<i>Terveystunnisteet:</i> %1"
+
+#~ msgid "View Recipe"
+#~ msgstr "Näytä resepti"
+
+#~ msgid "<i>Recipe Source: %1</i>"
+#~ msgstr "<i>Reseptilähde: %1</i>"
+
+#~ msgid "<i>Powered By: Edamam.com</i>"
+#~ msgstr "<i>Toimii Edamam.comin avulla</i>"
+
+#~ msgid "Close Ingredients List"
+#~ msgstr "Sulje ainesluettelo"
+
+#~ msgid "<b>Command:</b> %1"
+#~ msgstr "<b>Komento:</b> %1"
+
+#~ msgid "<i>%1</i>"
+#~ msgstr "<i>%1</i>"
+
+#~ msgid "Answered"
+#~ msgstr "Vastattu"
+
+#~ msgid "Unanswered"
+#~ msgstr "Ei vastattu"
+
+#~ msgid "Replies: %1"
+#~ msgstr "Vastauksia: %1"
+
+#~ msgid "Powered By StackOverflow"
+#~ msgstr "Toimii StackOverflow’n avulla"
+
+#~ msgid "Stock Price Info"
+#~ msgstr "Osakekurssitiedot"
+
+#~ msgid "Text"
+#~ msgstr "Teksti"
+
+#~ msgid "Stock Price:"
+#~ msgstr "Osakekurssi:"
+
+#~ msgid "128.89"
+#~ msgstr "128,89"
+
+#~ msgid "Ask Another"
+#~ msgstr "Kysy muuta"
+
+#~ msgid "Stop"
+#~ msgstr "Pysäytä"
+
+#~ msgid "Clear"
+#~ msgstr "Tyhjennä"
+
+#~ msgid "Low"
+#~ msgstr "Matala"
+
+#~ msgid "100"
+#~ msgstr "100"
+
+#~ msgid "°"
+#~ msgstr "°"
+
+#~ msgid "High"
+#~ msgstr "Korkea"
+
+#~ msgid "Tomorrow's Weather"
+#~ msgstr "Huomisen sää"
+
+#~ msgid "Play"
+#~ msgstr "Toista"
+
+#~ msgid "Wikipedia"
+#~ msgstr "Wikipedia"
+
+#~ msgid "<i>Phone:</i> %1"
+#~ msgstr "<i>Puhelin:</i> %1"
+
+#~ msgid "<i>Location:</i> %1"
+#~ msgstr "<i>Sijainti:</i> %1"
+
+#~ msgid "<i>Rating:</i> %1 Stars"
+#~ msgstr "<i>Arvostelu:</i> %1 tähteä"
+
+#~ msgid "Checkout"
+#~ msgstr "Checkout"
+
+#~ msgid "Send As Text"
+#~ msgstr "Lähetä tekstinä"
+
+#~ msgid "<i>Powered By: Yelp.com</i>"
+#~ msgstr "<i>Toimii Yelp.comin avulla</i>"
+
+#, fuzzy
+#~| msgid "Wolfram Alpha API:"
+#~ msgid "Wolfram Alpha"
+#~ msgstr "Wolfram Alphan API:"
+
+#~ msgid " : "
+#~ msgstr " : "
+
+#~ msgid " | "
+#~ msgstr " | "
+
+#~ msgid "Wind | "
+#~ msgstr "Tämän hetkinen sää:"
+
+#~ msgid "Date: "
+#~ msgstr "Päiväys: "
+
+#~ msgid "D: "
+#~ msgstr "D: "
+
+#~ msgid "Wind: "
+#~ msgstr "Tuuli: "
+
+#~ msgid "Home Tab"
+#~ msgstr "Kotivälilehti"
+
+#~ msgid "Skills Tab"
+#~ msgstr "Kykyvälilehti"
+
+#~ msgid "Skill Installs Tab"
+#~ msgstr "Kyvynasennusvälilehti"
+
+#~ msgid "Mycroft is Disabled"
+#~ msgstr "Mycroft on poistettu käytöstä"

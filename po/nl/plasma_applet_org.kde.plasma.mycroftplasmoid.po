@@ -1,0 +1,571 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Freek de Kruijf <freekdekruijf@kde.nl>, 2017, 2018, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-04 03:06+0100\n"
+"PO-Revision-Date: 2019-08-15 20:42+0200\n"
+"Last-Translator: Freek de Kruijf <f.de.kruijf@gmail.com>\n"
+"Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.04.3\n"
+
+#: contents/config/config.qml:25
+#, kde-format
+msgid "General"
+msgstr "Algemeen"
+
+#: contents/ui/BottomBarViewComponent.qml:71
+#, kde-format
+msgid "Enter Query or Say 'Hey Mycroft'"
+msgstr "Voer zoekopdracht in of zeg 'Hey Mycroft'"
+
+#: contents/ui/config/configGeneral.qml:45
+#, kde-format
+msgid "Websocket Address:"
+msgstr "Websocket-adres:"
+
+#: contents/ui/config/configGeneral.qml:53
+#, kde-format
+msgid "Additional Settings:"
+msgstr "Extra instellingen:"
+
+#: contents/ui/config/configGeneral.qml:54
+#, kde-format
+msgid "Enable Notifications"
+msgstr "Meldingen inschakelen"
+
+#: contents/ui/config/configGeneral.qml:60
+#, kde-format
+msgid "Enable Remote TTS"
+msgstr "TTS op afstand inschakelen"
+
+#: contents/ui/FullRepresentation.qml:85
+#, kde-format
+msgid "Conversation"
+msgstr "Conversatie"
+
+#: contents/ui/FullRepresentation.qml:91
+#, kde-format
+msgid "Hints & Tips"
+msgstr "Hints & tips"
+
+#: contents/ui/FullRepresentation.qml:97
+#, kde-format
+msgid "Skill Browser"
+msgstr "Skill-browser"
+
+#: contents/ui/SkillsInstallerComponent.qml:98
+#, kde-format
+msgid "Search Skills"
+msgstr "Vaardigheden zoeken"
+
+#: contents/ui/SkillsInstallerComponent.qml:116
+#, kde-format
+msgid "Refresh List"
+msgstr "Lijst vernieuwen"
+
+#: contents/ui/TopBarViewComponent.qml:73
+#, kde-format
+msgid "Mycroft"
+msgstr "Mycroft"
+
+#: contents/ui/TopBarViewComponent.qml:99
+#, kde-format
+msgid "Disconnected"
+msgstr "Niet verbonden"
+
+#: contents/ui/TopBarViewComponent.qml:120
+#, kde-format
+msgid "Connect"
+msgstr "Verbinden"
+
+#: contents/ui/TopBarViewComponent.qml:138
+#, kde-format
+msgid "Toggle Mic"
+msgstr "Microfoon omschakelen"
+
+#~ msgid "Enable Remote STT"
+#~ msgstr "STT op afstand inschakelen"
+
+#~ msgid "Default View:"
+#~ msgstr "Standaardweergave:"
+
+#~ msgid "Remove"
+#~ msgstr "Verwijderen"
+
+#~ msgid "Search Online"
+#~ msgstr "Online zoeken"
+
+#~ msgid "<i>Location: %1</i>"
+#~ msgstr "<i>Locatie: %1</i>"
+
+#~ msgid "Listen"
+#~ msgstr "Luisteren"
+
+#~ msgid "Author: %1"
+#~ msgstr "Auteur: %1"
+
+#~ msgid "Publisher: %1"
+#~ msgstr "Uitgever: %1"
+
+#~ msgid "Release Year: %1"
+#~ msgstr "Uitgavejaar: %1"
+
+#~ msgid "Availability: %1"
+#~ msgstr "Beschikbaarheid: %1"
+
+#~ msgid "Read Online"
+#~ msgstr "Online lezen"
+
+#~ msgid "Download"
+#~ msgstr "Downloaden"
+
+#~ msgid "Minimum Temperature: %1"
+#~ msgstr "Minimum temperatuur: %1"
+
+#~ msgid "Current Temperature: %1"
+#~ msgstr "Huidige temperatuur: %1"
+
+#~ msgid "Maximum Temperature: %1"
+#~ msgstr "Maximum temperatuur: %1"
+
+#~ msgid "Share Via Email"
+#~ msgstr "Delen via e-mail"
+
+#~ msgid "Currency: %1"
+#~ msgstr "Valuta: %1"
+
+#~ msgctxt "%1 is the currency symbol, %2 is the current rate"
+#~ msgid "%1: %2"
+#~ msgstr "%1: %2"
+
+#~ msgid "Remove Card"
+#~ msgstr "Kaart verwijderen"
+
+#~ msgid "Disable Cryptocurrency Card"
+#~ msgstr "Kaart met cryptovaluta uitschakelen"
+
+#~ msgid "<i>Powered By: NewsAPI</i>"
+#~ msgstr "<i>Powered By: NewsAPI</i>"
+
+#~ msgid "Play / Listen To News Article"
+#~ msgstr "Afspelen van / luisteren naar nieuwsartikel"
+
+#~ msgid "Share News Link"
+#~ msgstr "Koppeling naar nieuws delen"
+
+#~ msgid "Disable News Cards"
+#~ msgstr "Nieuwskaarten uitschakelen"
+
+#~ msgid "%1 | %2"
+#~ msgstr "%1 | %2"
+
+#~ msgid "Wind | %1 meters/sec"
+#~ msgstr "Wind | %1 meters/sec"
+
+#~ msgid "Date: %1 | Time: %2"
+#~ msgstr "Datum: %1 | tijd: %2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Minimum Temperature: %1%2"
+#~ msgstr "Minimum temperatuur: %1%2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Current Temperature: %1%2"
+#~ msgstr "Huidige temperatuur: %1%2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Maximum Temperature: %1%2"
+#~ msgstr "Maximum temperatuur: %1%2"
+
+#~ msgid "Expand Forecast"
+#~ msgstr "Prognose uitbreiden"
+
+#~ msgid "Close"
+#~ msgstr "Sluiten"
+
+#~ msgctxt "D stand for Day, T stands for Time"
+#~ msgid "D: %1 | T: %2"
+#~ msgstr "D: %1 | T: %2"
+
+#~ msgid "Condition: %1"
+#~ msgstr "Conditie: %1"
+
+#~ msgid "Wind: %1 meters/sec"
+#~ msgstr "Wind: %1 meters/sec"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Min: %1%2"
+#~ msgstr "Min: %1%2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Max: %1%2"
+#~ msgstr "Max: %1%2"
+
+#~ msgid "<i>Powered By: OpenWeatherMap</i>"
+#~ msgstr "<i>Powered By: OpenWeatherMap</i>"
+
+#~ msgid "Disable Weather Cards"
+#~ msgstr "Weerkaarten uitschakelen"
+
+#~ msgid "Let's Continue?"
+#~ msgstr "Gaan we door?"
+
+#~ msgid ""
+#~ "Mycroft by default is powered by a cloud-based speech to text service. "
+#~ "Mycroft gives you the ability to change speech to text services or use a "
+#~ "locally configured one within their settings at home.mycroft.ai. If you "
+#~ "agree to the default usage of Mycroft’s speech to text service, please "
+#~ "continue. Also remember you can always choose to turn off or mute Mycroft "
+#~ "when you do not wish to use it."
+#~ msgstr ""
+#~ "Mycroft maakt standaard gebruikt van een op de cloud gebaseerde service "
+#~ "voor spraak-naar-tekst. Mycroft geeft u de mogelijkheid om de services "
+#~ "voor spraak-naar-tekst te wijzigen of een lokaal geconfigureerde binnen "
+#~ "hun instellingen op home.mycroft.ai. Als u accoord gaat om het standaard "
+#~ "gebruik van de spraak-naar-teksttservice van Mycroft, ga dan door. Bedenk "
+#~ "ook dat u altijd kunt kiezen om het uit te zetten of Mycroft te dempen "
+#~ "wanneer u het niet wilt gebruiken."
+
+#~ msgid "To start using Mycroft toggle the switch in the upper right corner!"
+#~ msgstr ""
+#~ "Om te beginnen met het gebruik van Mycroft zet dan de schakelaar in de "
+#~ "rechterbovenhoek om!"
+
+#~ msgid ""
+#~ "Mycroft by default is powered by a cloud-based speech to text service. "
+#~ "Mycroft gives you the ability to change speech to text services or use a "
+#~ "locally configured one within their settings at home.mycroft.ai."
+#~ msgstr ""
+#~ "Mycroft maakt standaard gebruikt van een op de cloud gebaseerde service "
+#~ "voor spraak-naar-tekst. Mycroft geeft u de mogelijkheid om de services "
+#~ "voor spraak-naar-tekst te wijzigen of een lokaal geconfigureerde binnen "
+#~ "hun instellingen op home.mycroft.ai."
+
+#~ msgid "Disable Disclaimer Card"
+#~ msgstr "Disclaimer-kaart uitschakelen"
+
+#~ msgid "Open"
+#~ msgstr "Openen"
+
+#~ msgid "Broad Recognition"
+#~ msgstr "Brede herkenning"
+
+#~ msgid "OCR Recognition"
+#~ msgstr "Herkenning met OCR"
+
+#~ msgid ""
+#~ "I am not connected to the internet, Please check your network connection"
+#~ msgstr ""
+#~ "Ik ben niet verbonden met het internet, controleer uw netwerkverbinding"
+
+#~ msgid "<b>Disabled</b>"
+#~ msgstr "<b>Uitgeschakeld</b>"
+
+#~ msgid "<b>Starting up..please wait</b>"
+#~ msgstr "<b>Wordt opgestart..even geduld</b>"
+
+#~ msgid "<b>Connected</b>"
+#~ msgstr "<b>Verbonden</b>"
+
+#~ msgid "Ready..Let's Talk"
+#~ msgstr "Gereed..Laten we praten"
+
+#~ msgid "<b>Connection error</b>"
+#~ msgstr "<b>Verbindingsfout "
+
+#~ msgid "<b>Shutting down</b>"
+#~ msgstr "<b>Wordt afgesloten</b>"
+
+#~ msgid "Settings"
+#~ msgstr "Instellingen"
+
+#~ msgid "Dash"
+#~ msgstr "Streep"
+
+#~ msgid "<i>Your Mycroft Core Installation Path</i>"
+#~ msgstr "<i>Uw kerninstallatiepad van Mycroft</i>"
+
+#~ msgid "Installed Using Mycroft Package"
+#~ msgstr "Geïnstalleerd met gebruik van Mycroft pakket"
+
+#~ msgid "Location of Mycroft-Core Directory"
+#~ msgstr "Locatie van de kernmap van Mycroft"
+
+#~ msgid "<custom location>/mycroft-core/"
+#~ msgstr "<custom location>/mycroft-core/"
+
+#~ msgid "ws://0.0.0.0:8181/core"
+#~ msgstr "ws://0.0.0.0:8181/core"
+
+#~ msgid "Your Custom Image Recognition Skill Voc Keywords"
+#~ msgstr "Uw eigen stemsleutelwoorden van vaardigheden herkenning image"
+
+#~ msgid "search image url"
+#~ msgstr "URL van image zoeken"
+
+#~ msgid "Your Custom Image OCR Skill Voc Keywords"
+#~ msgstr "Uw eigen afbeelding van OCR Skill Voc-sleutelwoorden"
+
+#~ msgid "ocr image url"
+#~ msgstr "URL van ocr-afbeelding"
+
+#~ msgid "Enable Fallback To Wolfram Alpha Web-Search"
+#~ msgstr "Terufvallen naar Wolfram Alpha Web-Search inschakelen"
+
+#~ msgid "Wolfram Alpha API:"
+#~ msgstr "Wolfram Alpha API:"
+
+#~ msgid "RJVUY3-T6YLWQVXRR"
+#~ msgstr "RJVUY3-T6YLWQVXRR"
+
+#~ msgid ""
+#~ "<i>Please Note: Default path is set to /home/$USER/mycroft-core/. Change "
+#~ "the above settings to match your installation</i>"
+#~ msgstr ""
+#~ "<i>Merk op: standaardpad is ingesteld op /home/$USER/mycroft-core/. "
+#~ "Wijzig de bovenstaande instellingen om het overeen te laten komen met uw "
+#~ "installatie</i>"
+
+#~ msgid "Enable / Disable Dashboard"
+#~ msgstr "Dashboard in- / uitschakelen"
+
+#~ msgid "Enable / Disable Disclaimer Card"
+#~ msgstr "Disclaimer-kaart in- / uitschakelen"
+
+#~ msgid "Enable / Disable News Card"
+#~ msgstr "Nieuwskaart in- / uitschakelen"
+
+#~ msgid "Enable / Disable Cryptocurrency Card"
+#~ msgstr "Cryptocurrency in- / uitschakelen"
+
+#~ msgid "Selected CryptoCurrency:"
+#~ msgstr "Geselecteerde cryptovaluta:"
+
+#~ msgid "Display Currencies:"
+#~ msgstr "Valuta's tonen:"
+
+#~ msgid "NewsApi App_Key:"
+#~ msgstr "NieuwsApi App_Key:"
+
+#~ msgid "Enable / Disable Weather Card"
+#~ msgstr "Weerkaart in- / uitschakelen"
+
+#~ msgid "Open Weather Map App_ID:"
+#~ msgstr "Weerkaart openen App_ID:"
+
+#~ msgid "Celcius"
+#~ msgstr "Celcius"
+
+#~ msgid "Fahrenheit"
+#~ msgstr "Fahrenheit"
+
+#~ msgid "Version: %1"
+#~ msgstr "Versie: %1"
+
+#~ msgid "Uninstall"
+#~ msgstr "Deïnstalleren"
+
+#~ msgid "Install"
+#~ msgstr "Installeren"
+
+#~ msgid "Update"
+#~ msgstr "Bijwerken"
+
+#~ msgid "Readme"
+#~ msgstr "Readme"
+
+#~ msgid "Configure"
+#~ msgstr "Configureren"
+
+#~ msgctxt "mtrs stands for meters"
+#~ msgid "Distance: %1 <i>mtrs</i>"
+#~ msgstr "Afstand: %1 <i>meters</i>"
+
+#~ msgid "Address: %1"
+#~ msgstr "Adres: %1"
+
+#~ msgid "<i>Powered By: Here.API</i>"
+#~ msgstr "<i>Powered By: Here.API</i>"
+
+#~ msgid "Refresh Dashboard"
+#~ msgstr "Dashboard vernieuwen"
+
+#~ msgid "Change Settings"
+#~ msgstr "Instellingen wijzigen"
+
+#~ msgid "<i>Calories:</i> %1 <b>cal</b>"
+#~ msgstr "<i>Calorieën:</i> %1 <b>cal</b>"
+
+#~ msgid "<i>Diet Type:</i> %1"
+#~ msgstr "<i>Type dieet:</i> %1"
+
+#~ msgid "<i>Health Tags:</i> %1"
+#~ msgstr "<i>Gezondheidstags:</i> %1"
+
+#~ msgid "View Recipe"
+#~ msgstr "Recept tonen"
+
+#~ msgid "<i>Recipe Source: %1</i>"
+#~ msgstr "<i>Bron van recept: %1</i>"
+
+#~ msgid "<i>Powered By: Edamam.com</i>"
+#~ msgstr "<i>Powered by: Edamam.com</i>"
+
+#~ msgid "Close Ingredients List"
+#~ msgstr "Ingrediëntenlijst sluiten"
+
+#~ msgid "<b>Command:</b> %1"
+#~ msgstr "<b>Commando:</b> %1"
+
+#~ msgid "<i>%1</i>"
+#~ msgstr "<i>%1</i>"
+
+#~ msgid "Answered"
+#~ msgstr "Beantwoord"
+
+#~ msgid "Unanswered"
+#~ msgstr "Onbeantwoord"
+
+#~ msgid "Replies: %1"
+#~ msgstr "Antwoorden: %1"
+
+#~ msgid "Powered By StackOverflow"
+#~ msgstr "Powered by StackOverflow"
+
+#~ msgid "Stock Price Info"
+#~ msgstr "Informatie over aandeelprijzen"
+
+#~ msgid "Text"
+#~ msgstr "Tekst"
+
+#~ msgid "Stock Price:"
+#~ msgstr "Aandeelprijs:"
+
+#~ msgid "128.89"
+#~ msgstr "128.89"
+
+#~ msgid "Ask Another"
+#~ msgstr "Vraag iets anders"
+
+#~ msgid "Stop"
+#~ msgstr "Stoppen"
+
+#~ msgid "Clear"
+#~ msgstr "Wissen"
+
+#~ msgid "Low"
+#~ msgstr "Laag"
+
+#~ msgid "100"
+#~ msgstr "100"
+
+#~ msgid "°"
+#~ msgstr "°"
+
+#~ msgid "High"
+#~ msgstr "Hoog"
+
+#~ msgid "Tomorrow's Weather"
+#~ msgstr "Weer van morgen"
+
+#~ msgid "Play"
+#~ msgstr "Afspelen"
+
+#~ msgid "Wikipedia"
+#~ msgstr "Wikipedia"
+
+#~ msgid "<i>Phone:</i> %1"
+#~ msgstr "<i>Telefoon:</i> %1"
+
+#~ msgid "<i>Location:</i> %1"
+#~ msgstr "<i>Locatie:</i> %1"
+
+#~ msgid "<i>Rating:</i> %1 Stars"
+#~ msgstr "<i>Waardering:</i> %1 Sterren"
+
+#~ msgid "Checkout"
+#~ msgstr "Checkout"
+
+#~ msgid "Send As Text"
+#~ msgstr "Als tekst verzenden"
+
+#~ msgid "<i>Powered By: Yelp.com</i>"
+#~ msgstr "<i>Powered by: Yelp.com</i>"
+
+#~ msgid "Alarm"
+#~ msgstr "Herinnering"
+
+#~ msgid "Date & Time"
+#~ msgstr "Datum & tijd"
+
+#~ msgid "Desktop"
+#~ msgstr "Bureaublad"
+
+#~ msgid "Joke"
+#~ msgstr "Mop"
+
+#~ msgid "Spell"
+#~ msgstr "Spelling"
+
+#~ msgid "Productivity"
+#~ msgstr "Productiviteit"
+
+#~ msgid "WiKi"
+#~ msgstr "WiKi"
+
+#~ msgid "Wolfram Alpha"
+#~ msgstr "Wolfram Alpha"
+
+#~ msgid "Weather"
+#~ msgstr "Weer"
+
+#~ msgid " : "
+#~ msgstr " : "
+
+#~ msgid " | "
+#~ msgstr " | "
+
+#~ msgid "Wind | "
+#~ msgstr "Wind | "
+
+#~ msgid "Date: "
+#~ msgstr "Datum: "
+
+#~ msgid "D: "
+#~ msgstr "D: "
+
+#~ msgid "Wind: "
+#~ msgstr "Wind: "
+
+#~ msgid "<b>Ready</b>"
+#~ msgstr "<b>Gereed</b>"
+
+#~ msgid "USD: $"
+#~ msgstr "USD: $"
+
+#~ msgid "GBP: £"
+#~ msgstr "GBP: £"
+
+#~ msgid "EURO: €"
+#~ msgstr "EURO: €"
+
+#~ msgid "Home Tab"
+#~ msgstr "Tabblad Home"
+
+#~ msgid "Skills Tab"
+#~ msgstr "Tabblad Vaardigheden"
+
+#~ msgid "Skill Installs Tab"
+#~ msgstr "Tabblad Installatie van vaardigheden"
+
+#~ msgid "Mycroft is Disabled"
+#~ msgstr "Mycroft is uitgeschakeld"

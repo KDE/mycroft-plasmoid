@@ -1,0 +1,221 @@
+# Xavier Besnard <xavier.besnard@neuf.fr>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_org.kde.plasma.mycroftplasmoid\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-04 03:06+0100\n"
+"PO-Revision-Date: 2020-05-10 12:58+0200\n"
+"Last-Translator: Xavier Besnard <xavier.besnard@neuf.fr>\n"
+"Language-Team: French <kde-francophone@kde.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.04.0\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: contents/config/config.qml:25
+#, kde-format
+msgid "General"
+msgstr "Général"
+
+#: contents/ui/BottomBarViewComponent.qml:71
+#, kde-format
+msgid "Enter Query or Say 'Hey Mycroft'"
+msgstr "Saisir votre recherche ou dites « Hello Mycroft »"
+
+#: contents/ui/config/configGeneral.qml:45
+#, kde-format
+msgid "Websocket Address:"
+msgstr "Adresse de l'interface web :"
+
+#: contents/ui/config/configGeneral.qml:53
+#, kde-format
+msgid "Additional Settings:"
+msgstr "Paramètres additionnels :"
+
+#: contents/ui/config/configGeneral.qml:54
+#, kde-format
+msgid "Enable Notifications"
+msgstr "Activer les notifications"
+
+#: contents/ui/config/configGeneral.qml:60
+#, kde-format
+msgid "Enable Remote TTS"
+msgstr "Autoriser la synthèse vocal distante"
+
+#: contents/ui/FullRepresentation.qml:85
+#, kde-format
+msgid "Conversation"
+msgstr "Conversation"
+
+#: contents/ui/FullRepresentation.qml:91
+#, kde-format
+msgid "Hints & Tips"
+msgstr "Conseils et astuces"
+
+#: contents/ui/FullRepresentation.qml:97
+#, kde-format
+msgid "Skill Browser"
+msgstr "Navigateur de thèmes"
+
+#: contents/ui/SkillsInstallerComponent.qml:98
+#, kde-format
+msgid "Search Skills"
+msgstr "Rechercher des thèmes"
+
+#: contents/ui/SkillsInstallerComponent.qml:116
+#, kde-format
+msgid "Refresh List"
+msgstr "Rafraîchir la liste"
+
+#: contents/ui/TopBarViewComponent.qml:73
+#, kde-format
+msgid "Mycroft"
+msgstr "Mycroft"
+
+#: contents/ui/TopBarViewComponent.qml:99
+#, kde-format
+msgid "Disconnected"
+msgstr "Déconnecté"
+
+#: contents/ui/TopBarViewComponent.qml:120
+#, kde-format
+msgid "Connect"
+msgstr "Connecter"
+
+#: contents/ui/TopBarViewComponent.qml:138
+#, kde-format
+msgid "Toggle Mic"
+msgstr "Activer / Désactiver le micro"
+
+#~ msgid "Enable Remote STT"
+#~ msgstr "Autoriser la reconnaissance vocale à distance"
+
+#~ msgid "Remove"
+#~ msgstr "Supprimer"
+
+#~ msgid "Listen"
+#~ msgstr "Écouter"
+
+#~ msgid "Author: %1"
+#~ msgstr "Auteur : %1"
+
+#~ msgid "Release Year: %1"
+#~ msgstr "Date de sortie : %1"
+
+#~ msgid "Download"
+#~ msgstr "Télécharger"
+
+#~ msgid "Currency: %1"
+#~ msgstr "Devise : %1"
+
+#~ msgid "Close"
+#~ msgstr "Fermer"
+
+#, fuzzy
+#~| msgid "Conversation"
+#~ msgid "Condition: %1"
+#~ msgstr "Conversation"
+
+#~ msgid "Open"
+#~ msgstr "Ouvrir"
+
+#, fuzzy
+#~| msgid "Conversation"
+#~ msgid "OCR Recognition"
+#~ msgstr "Conversation"
+
+#~ msgid "Settings"
+#~ msgstr "Configuration"
+
+#~ msgid "Dash"
+#~ msgstr "Dièse"
+
+#~ msgid "Fahrenheit"
+#~ msgstr "Fahrenheit"
+
+#~ msgid "Version: %1"
+#~ msgstr "Version : %1"
+
+#~ msgid "Uninstall"
+#~ msgstr "Désinstaller"
+
+#~ msgid "Install"
+#~ msgstr "Installer"
+
+#~ msgid "Update"
+#~ msgstr "Mettre à jour"
+
+#~ msgid "Configure"
+#~ msgstr "Configurer"
+
+#, fuzzy
+#~| msgid "Refresh List"
+#~ msgid "Refresh Dashboard"
+#~ msgstr "Rafraîchir la liste"
+
+#~ msgid "View Recipe"
+#~ msgstr "Voir la recette"
+
+#~ msgid "Answered"
+#~ msgstr "Répondu"
+
+#~ msgid "Text"
+#~ msgstr "Texte"
+
+#~ msgid "Stop"
+#~ msgstr "Arrêter"
+
+#~ msgid "Clear"
+#~ msgstr "Effacer"
+
+#~ msgid "Low"
+#~ msgstr "Faible"
+
+#~ msgid "100"
+#~ msgstr "100"
+
+#~ msgid "°"
+#~ msgstr "°"
+
+#~ msgid "High"
+#~ msgstr "Élevé"
+
+#~ msgid "Play"
+#~ msgstr "Lire"
+
+#~ msgid "Wikipedia"
+#~ msgstr "Wikipédia"
+
+#~ msgid "Checkout"
+#~ msgstr "Extraire"
+
+#~ msgid "Alarm"
+#~ msgstr "Alarme"
+
+#~ msgid "Date & Time"
+#~ msgstr "Date & Heure"
+
+#~ msgid "Desktop"
+#~ msgstr "Bureau"
+
+#~ msgid "Productivity"
+#~ msgstr "Productivité"
+
+#~ msgid "Weather"
+#~ msgstr "Météo"
+
+#~ msgid " : "
+#~ msgstr " : "
+
+#~ msgid "Date: "
+#~ msgstr "Date : "
+
+#, fuzzy
+#~| msgid " : "
+#~ msgid "D: "
+#~ msgstr " : "

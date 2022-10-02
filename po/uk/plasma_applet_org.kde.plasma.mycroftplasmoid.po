@@ -1,0 +1,583 @@
+# Translation of plasma_applet_org.kde.plasma.mycroftplasmoid.po to Ukrainian
+# Copyright (C) 2017-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Yuri Chornoivan <yurchor@ukr.net>, 2017, 2018, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_org.kde.plasma.mycroftplasmoid\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-04 03:06+0100\n"
+"PO-Revision-Date: 2019-08-15 09:15+0300\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
+"Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
+"%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Lokalize 19.11.70\n"
+
+#: contents/config/config.qml:25
+#, kde-format
+msgid "General"
+msgstr "Загальне"
+
+#: contents/ui/BottomBarViewComponent.qml:71
+#, kde-format
+msgid "Enter Query or Say 'Hey Mycroft'"
+msgstr "Введіть запит або скажіть «Привіт, Mycroft»"
+
+#: contents/ui/config/configGeneral.qml:45
+#, kde-format
+msgid "Websocket Address:"
+msgstr "Адреса вебсокета:"
+
+#: contents/ui/config/configGeneral.qml:53
+#, kde-format
+msgid "Additional Settings:"
+msgstr "Додаткові параметри:"
+
+#: contents/ui/config/configGeneral.qml:54
+#, kde-format
+msgid "Enable Notifications"
+msgstr "Увімкнути сповіщення"
+
+#: contents/ui/config/configGeneral.qml:60
+#, kde-format
+msgid "Enable Remote TTS"
+msgstr "Увімкнути віддалену систему озвучення тексту"
+
+#: contents/ui/FullRepresentation.qml:85
+#, kde-format
+msgid "Conversation"
+msgstr "Спілкування"
+
+#: contents/ui/FullRepresentation.qml:91
+#, kde-format
+msgid "Hints & Tips"
+msgstr "Підказки"
+
+#: contents/ui/FullRepresentation.qml:97
+#, kde-format
+msgid "Skill Browser"
+msgstr "Навігація навичками"
+
+#: contents/ui/SkillsInstallerComponent.qml:98
+#, kde-format
+msgid "Search Skills"
+msgstr "Шукати вміння"
+
+#: contents/ui/SkillsInstallerComponent.qml:116
+#, kde-format
+msgid "Refresh List"
+msgstr "Оновити список"
+
+#: contents/ui/TopBarViewComponent.qml:73
+#, kde-format
+msgid "Mycroft"
+msgstr "Mycroft"
+
+#: contents/ui/TopBarViewComponent.qml:99
+#, kde-format
+msgid "Disconnected"
+msgstr "Від’єднано"
+
+#: contents/ui/TopBarViewComponent.qml:120
+#, kde-format
+msgid "Connect"
+msgstr "З'єднати"
+
+#: contents/ui/TopBarViewComponent.qml:138
+#, kde-format
+msgid "Toggle Mic"
+msgstr "Увімкнути/Вимкнути мікрофон"
+
+#~ msgid "Enable Remote STT"
+#~ msgstr "Увімкнути віддалену систему запису мовлення"
+
+#~ msgid "Default View:"
+#~ msgstr "Типовий перегляд:"
+
+#~ msgid "Remove"
+#~ msgstr "Вилучити"
+
+#~ msgid "Search Online"
+#~ msgstr "Пошук у інтернеті"
+
+#~ msgid "<i>Location: %1</i>"
+#~ msgstr "<i>Розташування: %1</i>"
+
+#~ msgid "Listen"
+#~ msgstr "Прослухати"
+
+#~ msgid "Author: %1"
+#~ msgstr "Автор: %1"
+
+#~ msgid "Publisher: %1"
+#~ msgstr "Видавець: %1"
+
+#~ msgid "Release Year: %1"
+#~ msgstr "Рік випуску: %1"
+
+#~ msgid "Availability: %1"
+#~ msgstr "Доступність: %1"
+
+#~ msgid "Read Online"
+#~ msgstr "Читати у інтернеті"
+
+#~ msgid "Download"
+#~ msgstr "Отримати"
+
+#~ msgid "Minimum Temperature: %1"
+#~ msgstr "Мінімальна температура: %1"
+
+#~ msgid "Current Temperature: %1"
+#~ msgstr "Поточна температура: %1"
+
+#~ msgid "Maximum Temperature: %1"
+#~ msgstr "Максимальна температура: %1"
+
+#~ msgid "Share Via Email"
+#~ msgstr "Оприлюднити ел. поштою"
+
+#~ msgid "Currency: %1"
+#~ msgstr "Валюта: %1"
+
+#~ msgctxt "%1 is the currency symbol, %2 is the current rate"
+#~ msgid "%1: %2"
+#~ msgstr "%1: %2"
+
+#~ msgid "Remove Card"
+#~ msgstr "Вилучити картку"
+
+#~ msgid "Disable Cryptocurrency Card"
+#~ msgstr "Вимкнути картку криптовалют"
+
+#~ msgid "<i>Powered By: NewsAPI</i>"
+#~ msgstr "<i>На основі: NewsAPI</i>"
+
+#~ msgid "Play / Listen To News Article"
+#~ msgstr "Відтворити або прослухати статтю новин"
+
+#~ msgid "Share News Link"
+#~ msgstr "Поділитися посиланням на новину"
+
+#~ msgid "Disable News Cards"
+#~ msgstr "Вимкнути картки новин"
+
+#~ msgid "%1 | %2"
+#~ msgstr "%1 | %2"
+
+#~ msgid "Wind | %1 meters/sec"
+#~ msgstr "Вітер | %1 м/с"
+
+#~ msgid "Date: %1 | Time: %2"
+#~ msgstr "Дата: %1 | Час: %2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Minimum Temperature: %1%2"
+#~ msgstr "Мінімальна температура: %1%2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Current Temperature: %1%2"
+#~ msgstr "Поточна температура: %1%2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Maximum Temperature: %1%2"
+#~ msgstr "Максимальна температура: %1%2"
+
+#~ msgid "Expand Forecast"
+#~ msgstr "Розширити прогноз"
+
+#~ msgid "Close"
+#~ msgstr "Закрити"
+
+#~ msgctxt "D stand for Day, T stands for Time"
+#~ msgid "D: %1 | T: %2"
+#~ msgstr "Д: %1 | Ч: %2"
+
+#~ msgid "Condition: %1"
+#~ msgstr "Умови: %1"
+
+#~ msgid "Wind: %1 meters/sec"
+#~ msgstr "Вітер: %1 м/с"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Min: %1%2"
+#~ msgstr "Мін.: %1%2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Max: %1%2"
+#~ msgstr "Макс.: %1%2"
+
+#~ msgid "<i>Powered By: OpenWeatherMap</i>"
+#~ msgstr "<i>На основі даних OpenWeatherMap</i>"
+
+#~ msgid "Disable Weather Cards"
+#~ msgstr "Вимкнути картки погоди"
+
+#~ msgid "Let's Continue?"
+#~ msgstr "Продовжимо?"
+
+#~ msgid ""
+#~ "Mycroft by default is powered by a cloud-based speech to text service. "
+#~ "Mycroft gives you the ability to change speech to text services or use a "
+#~ "locally configured one within their settings at home.mycroft.ai. If you "
+#~ "agree to the default usage of Mycroft’s speech to text service, please "
+#~ "continue. Also remember you can always choose to turn off or mute Mycroft "
+#~ "when you do not wish to use it."
+#~ msgstr ""
+#~ "Типово, Mycroft використовує службу перетворення звукових даних на текст "
+#~ "у обчислювальній «хмарі». Mycroft надає вам можливість змінити служби "
+#~ "перетворення звукових даних на текст або скористатися локальною службою "
+#~ "на основі параметрів на home.mycroft.ai. Якщо ви погоджуєтеся типово "
+#~ "використовувати службу перетворення звукових даних на текст Mycroft, будь "
+#~ "ласка, накажіть програмі продовжувати. Також слід пам'ятати, що ви завжди "
+#~ "можете вимкнути програму або звук у ній, якщо ви не хочете нею "
+#~ "користуватися."
+
+#~ msgid "To start using Mycroft toggle the switch in the upper right corner!"
+#~ msgstr ""
+#~ "Щоб розпочати користування Mycroft, натисніть перемикач у верхньому "
+#~ "правому куті!"
+
+#~ msgid ""
+#~ "Mycroft by default is powered by a cloud-based speech to text service. "
+#~ "Mycroft gives you the ability to change speech to text services or use a "
+#~ "locally configured one within their settings at home.mycroft.ai."
+#~ msgstr ""
+#~ "Типово, Mycroft використовує службу перетворення звукових даних на текст "
+#~ "у обчислювальній «хмарі». Mycroft надає вам можливість змінити служби "
+#~ "перетворення звукових даних на текст або скористатися локальною службою "
+#~ "на основі параметрів на home.mycroft.ai."
+
+#~ msgid "Disable Disclaimer Card"
+#~ msgstr "Вимкнути картку відмови"
+
+#~ msgid "Open"
+#~ msgstr "Відкрити"
+
+#~ msgid "Broad Recognition"
+#~ msgstr "Загальне розпізнавання"
+
+#~ msgid "OCR Recognition"
+#~ msgstr "Розпізнавання символів"
+
+#~ msgid ""
+#~ "I am not connected to the internet, Please check your network connection"
+#~ msgstr ""
+#~ "Немає з'єднання із інтернетом. Будь ласка, перевірте, чи працездатне "
+#~ "з'єднання."
+
+#~ msgid "<b>Disabled</b>"
+#~ msgstr "<b>Вимкнено</b>"
+
+#~ msgid "<b>Starting up..please wait</b>"
+#~ msgstr "<b>Запускаємося… Зачекайте</b>"
+
+#~ msgid "<b>Connected</b>"
+#~ msgstr "<b>З'єднано</b>"
+
+#~ msgid "Ready..Let's Talk"
+#~ msgstr "Готово… Нумо спілкуватися"
+
+#~ msgid "<b>Connection error</b>"
+#~ msgstr "<b>Помилка з'єднання</b>"
+
+#~ msgid "<b>Shutting down</b>"
+#~ msgstr "<b>Завершуємо роботу</b>"
+
+#~ msgid "Settings"
+#~ msgstr "Параметри"
+
+#~ msgid "Dash"
+#~ msgstr "Панель"
+
+#~ msgid "<i>Your Mycroft Core Installation Path</i>"
+#~ msgstr "<i>Ваш шлях до основної частини Mycroft</i>"
+
+#~ msgid "Installed Using Mycroft Package"
+#~ msgstr "Встановлено за допомогою пакунка Mycroft"
+
+#~ msgid "Location of Mycroft-Core Directory"
+#~ msgstr "Адреса основного каталогу Mycroft"
+
+#~ msgid "<custom location>/mycroft-core/"
+#~ msgstr "<нетипова адреса>/mycroft-core/"
+
+#~ msgid "ws://0.0.0.0:8181/core"
+#~ msgstr "ws://0.0.0.0:8181/core"
+
+#~ msgid "Your Custom Image Recognition Skill Voc Keywords"
+#~ msgstr ""
+#~ "Ключові слова словника для ваших нетипових вмінь із розпізнавання "
+#~ "зображень"
+
+#~ msgid "search image url"
+#~ msgstr "шукати адресу зображення"
+
+#~ msgid "Your Custom Image OCR Skill Voc Keywords"
+#~ msgstr ""
+#~ "Ключові слова словника для ваших нетипових вмінь із розпізнавання "
+#~ "зображень"
+
+#~ msgid "ocr image url"
+#~ msgstr "адреса зображення для розпізнавання тексту"
+
+#~ msgid "Enable Fallback To Wolfram Alpha Web-Search"
+#~ msgstr "Увімкнути резервний вебпошук Wolfram Alpha"
+
+#~ msgid "Wolfram Alpha API:"
+#~ msgstr "Програмний інтерфейс Wolfram Alpha:"
+
+#~ msgid "RJVUY3-T6YLWQVXRR"
+#~ msgstr "RJVUY3-T6YLWQVXRR"
+
+#~ msgid ""
+#~ "<i>Please Note: Default path is set to /home/$USER/mycroft-core/. Change "
+#~ "the above settings to match your installation</i>"
+#~ msgstr ""
+#~ "<i>Зауваження: типовим шляхом є /home/$USER/mycroft-core/. Внесіть зміни "
+#~ "до наведених вище значень параметрів так, щоб вони відповідали "
+#~ "встановленій у вашій системі версії.</i>"
+
+#~ msgid "Enable / Disable Dashboard"
+#~ msgstr "Увімкнути або вимкнути панель приладів"
+
+#~ msgid "Enable / Disable Disclaimer Card"
+#~ msgstr "Увімкнути або вимкнути картку відмови"
+
+#~ msgid "Enable / Disable News Card"
+#~ msgstr "Увімкнути або вимкнути картку новин"
+
+#~ msgid "Enable / Disable Cryptocurrency Card"
+#~ msgstr "Увімкнути або вимкнути картку криптовалют"
+
+#~ msgid "Selected CryptoCurrency:"
+#~ msgstr "Вибрана криптовалюта:"
+
+#~ msgid "Display Currencies:"
+#~ msgstr "Показана валюти:"
+
+#~ msgid "NewsApi App_Key:"
+#~ msgstr "Ключ NewsApi:"
+
+#~ msgid "Enable / Disable Weather Card"
+#~ msgstr "Увімкнути або вимкнути картку погоди"
+
+#~ msgid "Open Weather Map App_ID:"
+#~ msgstr "Ід. програми для Open Weather Map:"
+
+#~ msgid "Celcius"
+#~ msgstr "Цельсій"
+
+#~ msgid "Fahrenheit"
+#~ msgstr "Фаренгейт"
+
+#~ msgid "Version: %1"
+#~ msgstr "Версія: %1"
+
+#~ msgid "Uninstall"
+#~ msgstr "Вилучити"
+
+#~ msgid "Install"
+#~ msgstr "Встановити"
+
+#~ msgid "Update"
+#~ msgstr "Оновити"
+
+#~ msgid "Readme"
+#~ msgstr "Нотатки"
+
+#~ msgid "Configure"
+#~ msgstr "Налаштувати"
+
+#~ msgctxt "mtrs stands for meters"
+#~ msgid "Distance: %1 <i>mtrs</i>"
+#~ msgstr "Відстань: %1 <i>м</i>"
+
+#~ msgid "Address: %1"
+#~ msgstr "Адреса: %1"
+
+#~ msgid "<i>Powered By: Here.API</i>"
+#~ msgstr "<i>На основі: Here.API</i>"
+
+#~ msgid "Refresh Dashboard"
+#~ msgstr "Оновити панель приладів"
+
+#~ msgid "Change Settings"
+#~ msgstr "Змінити параметри"
+
+#~ msgid "<i>Calories:</i> %1 <b>cal</b>"
+#~ msgstr "<i>Калорії:</i> %1 <b>кал</b>"
+
+#~ msgid "<i>Diet Type:</i> %1"
+#~ msgstr "<i>Тип дієти:</i> %1"
+
+#~ msgid "<i>Health Tags:</i> %1"
+#~ msgstr "<i>Мітки щодо здоров'я:</i> %1"
+
+#~ msgid "View Recipe"
+#~ msgstr "Переглянути рецепт"
+
+#~ msgid "<i>Recipe Source: %1</i>"
+#~ msgstr "<i>Джерело рецепта: %1</i>"
+
+#~ msgid "<i>Powered By: Edamam.com</i>"
+#~ msgstr "<i>На основі: Edamam.com</i>"
+
+#~ msgid "Close Ingredients List"
+#~ msgstr "Закрити список складових"
+
+#~ msgid "<b>Command:</b> %1"
+#~ msgstr "<i>Команда:</i> %1"
+
+#~ msgid "<i>%1</i>"
+#~ msgstr "<i>%1</i>"
+
+#~ msgid "Answered"
+#~ msgstr "Надано відповідь"
+
+#~ msgid "Unanswered"
+#~ msgstr "Без відповіді"
+
+#~ msgid "Replies: %1"
+#~ msgstr "Відповідей: %1"
+
+#~ msgid "Powered By StackOverflow"
+#~ msgstr "На основі StackOverflow"
+
+#~ msgid "Stock Price Info"
+#~ msgstr "Дані щодо курсів"
+
+#~ msgid "Text"
+#~ msgstr "Текст"
+
+#~ msgid "Stock Price:"
+#~ msgstr "Курс:"
+
+#~ msgid "128.89"
+#~ msgstr "128.89"
+
+#~ msgid "Ask Another"
+#~ msgstr "Запитати ще"
+
+#~ msgid "Stop"
+#~ msgstr "Припинити"
+
+#~ msgid "Clear"
+#~ msgstr "Спорожнити"
+
+#~ msgid "Low"
+#~ msgstr "Найнижча"
+
+#~ msgid "100"
+#~ msgstr "100"
+
+#~ msgid "°"
+#~ msgstr "°"
+
+#~ msgid "High"
+#~ msgstr "Найвища"
+
+#~ msgid "Tomorrow's Weather"
+#~ msgstr "Погода завтра"
+
+#~ msgid "Play"
+#~ msgstr "Відтворити"
+
+#~ msgid "Wikipedia"
+#~ msgstr "Вікіпедія"
+
+#~ msgid "<i>Phone:</i> %1"
+#~ msgstr "<i>Телефон:</i> %1"
+
+#~ msgid "<i>Location:</i> %1"
+#~ msgstr "<i>Розташування:</i> %1"
+
+#~ msgid "<i>Rating:</i> %1 Stars"
+#~ msgstr "<i>Оцінка:</i> %1 зірок"
+
+#~ msgid "Checkout"
+#~ msgstr "Отримати"
+
+#~ msgid "Send As Text"
+#~ msgstr "Надіслати як текст"
+
+#~ msgid "<i>Powered By: Yelp.com</i>"
+#~ msgstr "<i>На основі: Yelp.com</i>"
+
+#~ msgid "Alarm"
+#~ msgstr "Нагадування"
+
+#~ msgid "Date & Time"
+#~ msgstr "Дата і час"
+
+#~ msgid "Desktop"
+#~ msgstr "Стільниця"
+
+#~ msgid "Joke"
+#~ msgstr "Жарт"
+
+#~ msgid "Spell"
+#~ msgstr "Вимова"
+
+#~ msgid "Productivity"
+#~ msgstr "Продуктивність"
+
+#~ msgid "WiKi"
+#~ msgstr "Вікі"
+
+#~ msgid "Wolfram Alpha"
+#~ msgstr "Wolfram Alpha"
+
+#~ msgid "Weather"
+#~ msgstr "Погода"
+
+#~ msgid " : "
+#~ msgstr " : "
+
+#~ msgid " | "
+#~ msgstr " | "
+
+#~ msgid "Wind | "
+#~ msgstr "Вітер | "
+
+#~ msgid "Date: "
+#~ msgstr "Дата: "
+
+#~ msgid "D: "
+#~ msgstr "Д: "
+
+#~ msgid "Wind: "
+#~ msgstr "Вітер: "
+
+#~ msgid "<b>Ready</b>"
+#~ msgstr "<b>Готовий</b>"
+
+#~ msgid "USD: $"
+#~ msgstr "Долари: $"
+
+#~ msgid "GBP: £"
+#~ msgstr "Фунти: £"
+
+#~ msgid "EURO: €"
+#~ msgstr "Євро: €"
+
+#~ msgid "Home Tab"
+#~ msgstr "Домашня вкладка"
+
+#~ msgid "Skills Tab"
+#~ msgstr "Вкладка вмінь"
+
+#~ msgid "Skill Installs Tab"
+#~ msgstr "Вкладка встановлених вмінь"
+
+#~ msgid "Mycroft is Disabled"
+#~ msgstr "Mycroft вимкнено"
+
+#~ msgid "Farahanite"
+#~ msgstr "Фаренгейт"

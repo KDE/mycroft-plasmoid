@@ -1,0 +1,503 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-mycroft package.
+#
+# Stelios <sstavra@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-mycroft\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-04 03:06+0100\n"
+"PO-Revision-Date: 2019-08-20 11:59+0300\n"
+"Last-Translator: Stelios <sstavra@gmail.com>\n"
+"Language-Team: Greek <kde-i18n-el@kde.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 18.12.3\n"
+
+#: contents/config/config.qml:25
+#, kde-format
+msgid "General"
+msgstr "Γενικά"
+
+#: contents/ui/BottomBarViewComponent.qml:71
+#, kde-format
+msgid "Enter Query or Say 'Hey Mycroft'"
+msgstr "Δώστε ερώτημα ή πείτε 'Γεια σου Mycroft'"
+
+#: contents/ui/config/configGeneral.qml:45
+#, kde-format
+msgid "Websocket Address:"
+msgstr "Διεύθυνση websocket:"
+
+#: contents/ui/config/configGeneral.qml:53
+#, kde-format
+msgid "Additional Settings:"
+msgstr "Πρόσθετες ρυθμίσεις:"
+
+#: contents/ui/config/configGeneral.qml:54
+#, kde-format
+msgid "Enable Notifications"
+msgstr "Ενεργοποίηση ειδοποιήσεων"
+
+#: contents/ui/config/configGeneral.qml:60
+#, kde-format
+msgid "Enable Remote TTS"
+msgstr "Ενεργοποίηση απομακρυσμένου TTS"
+
+#: contents/ui/FullRepresentation.qml:85
+#, kde-format
+msgid "Conversation"
+msgstr "Συνομιλία"
+
+#: contents/ui/FullRepresentation.qml:91
+#, kde-format
+msgid "Hints & Tips"
+msgstr "Υποδείξεις & συμβουλές"
+
+#: contents/ui/FullRepresentation.qml:97
+#, kde-format
+msgid "Skill Browser"
+msgstr "Περιηγητής δεξιοτήτων"
+
+#: contents/ui/SkillsInstallerComponent.qml:98
+#, kde-format
+msgid "Search Skills"
+msgstr "Δεξιότητες αναζήτησης"
+
+#: contents/ui/SkillsInstallerComponent.qml:116
+#, kde-format
+msgid "Refresh List"
+msgstr "Ανανέωση λίστας"
+
+#: contents/ui/TopBarViewComponent.qml:73
+#, kde-format
+msgid "Mycroft"
+msgstr "Mycroft"
+
+#: contents/ui/TopBarViewComponent.qml:99
+#, kde-format
+msgid "Disconnected"
+msgstr "Αποσυνδεδεμένο"
+
+#: contents/ui/TopBarViewComponent.qml:120
+#, kde-format
+msgid "Connect"
+msgstr "Σύνδεση"
+
+#: contents/ui/TopBarViewComponent.qml:138
+#, kde-format
+msgid "Toggle Mic"
+msgstr "Εναλλαγή μικ"
+
+#~ msgid "Enable Remote STT"
+#~ msgstr "Ενεργοποίηση απομακρυσμένου STT"
+
+#~ msgid "Default View:"
+#~ msgstr "Προκαθορισμένη προβολή:"
+
+#~ msgid "Remove"
+#~ msgstr "Αφαίρεση"
+
+#~ msgid "Search Online"
+#~ msgstr "Αναζήτηση στο διαδίκτυο"
+
+#~ msgid "<i>Location: %1</i>"
+#~ msgstr "<i>Θέση: %1</i>"
+
+#~ msgid "Listen"
+#~ msgstr "Ακρόαση"
+
+#~ msgid "Author: %1"
+#~ msgstr "Συγγραφέας: %1"
+
+#~ msgid "Publisher: %1"
+#~ msgstr "Εκδότης: %1"
+
+#~ msgid "Release Year: %1"
+#~ msgstr "Έτος έκδοσης: %1"
+
+#~ msgid "Availability: %1"
+#~ msgstr "Διαθεσιμότητα: %1"
+
+#~ msgid "Read Online"
+#~ msgstr "Ανάγνωση στο διαδίκτυο"
+
+#~ msgid "Download"
+#~ msgstr "Λήψη"
+
+#~ msgid "Minimum Temperature: %1"
+#~ msgstr "Ελάχιστη θερμοκρασία: %1"
+
+#~ msgid "Current Temperature: %1"
+#~ msgstr "Τρέχουσα θερμοκρασία: %1"
+
+#~ msgid "Maximum Temperature: %1"
+#~ msgstr "Μέγιστη θερμοκρασία: %1"
+
+#~ msgid "Share Via Email"
+#~ msgstr "Κοινή χρήση με ηλ. αλληλογραφία"
+
+#~ msgid "Currency: %1"
+#~ msgstr "Νόμισμα: %1"
+
+#~ msgctxt "%1 is the currency symbol, %2 is the current rate"
+#~ msgid "%1: %2"
+#~ msgstr "%1: %2"
+
+#~ msgid "Remove Card"
+#~ msgstr "Αφαίρεση κάρτας"
+
+#~ msgid "Disable Cryptocurrency Card"
+#~ msgstr "Απενεργοποίηση κάρτας κρυπτονομίσματος"
+
+#~ msgid "<i>Powered By: NewsAPI</i>"
+#~ msgstr "<i>Υποστήριξη: NewsAPI</i>"
+
+#~ msgid "Play / Listen To News Article"
+#~ msgstr "Αναπαραγωγή / ακρόαση είδησεογραφίας"
+
+#~ msgid "Share News Link"
+#~ msgstr "Κοινή χρήση δεσμού είδησης"
+
+#~ msgid "Disable News Cards"
+#~ msgstr "Απενεργοποίηση καρτών ειδήσεων"
+
+#~ msgid "%1 | %2"
+#~ msgstr "%1 | %2"
+
+#~ msgid "Wind | %1 meters/sec"
+#~ msgstr "Άνεμος | %1 meters/sec"
+
+#~ msgid "Date: %1 | Time: %2"
+#~ msgstr "Ημερομηνία: %1 | Ώρα: %2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Minimum Temperature: %1%2"
+#~ msgstr "Ελάχιστη θερμοκρασία: %1%2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Current Temperature: %1%2"
+#~ msgstr "Τρέχουσα θερμοκρασία: %1%2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Maximum Temperature: %1%2"
+#~ msgstr "Μέγιστη θερμοκρασία %1%2"
+
+#~ msgid "Expand Forecast"
+#~ msgstr "Επέκταση πρόβλεψης"
+
+#~ msgid "Close"
+#~ msgstr "Κλείσιμο"
+
+#~ msgctxt "D stand for Day, T stands for Time"
+#~ msgid "D: %1 | T: %2"
+#~ msgstr "Η: %1 | Ω: %2"
+
+#~ msgid "Condition: %1"
+#~ msgstr "Κατάσταση: %1"
+
+#~ msgid "Wind: %1 meters/sec"
+#~ msgstr "Άνεμος: %1 meters/sec"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Min: %1%2"
+#~ msgstr "Ελάχ: %1%2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Max: %1%2"
+#~ msgstr "Μέγ: %1%2"
+
+#~ msgid "<i>Powered By: OpenWeatherMap</i>"
+#~ msgstr "<i>Υποστήριξη: OpenWeatherMap</i>"
+
+#~ msgid "Disable Weather Cards"
+#~ msgstr "Απενεργοποίηση καρτών καιρού"
+
+#~ msgid "Let's Continue?"
+#~ msgstr "Θα συνεχίσετε;"
+
+#~ msgid ""
+#~ "Mycroft by default is powered by a cloud-based speech to text service. "
+#~ "Mycroft gives you the ability to change speech to text services or use a "
+#~ "locally configured one within their settings at home.mycroft.ai. If you "
+#~ "agree to the default usage of Mycroft’s speech to text service, please "
+#~ "continue. Also remember you can always choose to turn off or mute Mycroft "
+#~ "when you do not wish to use it."
+#~ msgstr ""
+#~ "Το mycroft υποστηρίζεται εξ ορισμού από διαδικτυακή υπηρεσία ομιλίας σε "
+#~ "κείμενο. Το mycroft σας δίνει τη δυνατότητα να αλλάζετε υπηρεσίες ομιλίας "
+#~ "σε κείμενο ή να χρησιμοποιήσετε μία τοπικά διαμορφωμένη με τις ρυθμίσεις "
+#~ "της στο home.mycroft.ai. Συνεχίστε αν συμφωνείτε με την προκαθορισμένη "
+#~ "χρήση της υπηρεσίας ομιλίας σε κείμενο mycroft. Επίσης να θυμάστε ότι "
+#~ "μπορείτε πάντα να κλείσετε το mycroft ή τον ήχο του αν δεν θέλετε να το "
+#~ "χρησιμοποιήσετε."
+
+#~ msgid "To start using Mycroft toggle the switch in the upper right corner!"
+#~ msgstr ""
+#~ "Για να ξεκινήσετε με το mycroft κάνετε εναλλαγή στο διακόπτη στην πάνω "
+#~ "δεξιά γωνία!"
+
+#~ msgid ""
+#~ "Mycroft by default is powered by a cloud-based speech to text service. "
+#~ "Mycroft gives you the ability to change speech to text services or use a "
+#~ "locally configured one within their settings at home.mycroft.ai."
+#~ msgstr ""
+#~ "Το mycroft υποστηρίζεται εξ ορισμού από διαδικτυακή υπηρεσία ομιλίας σε "
+#~ "κείμενο. Το mycroft σας δίνει τη δυνατότητα να αλλάζετε υπηρεσίες ομιλίας "
+#~ "σε κείμενο ή να χρησιμοποιήσετε μία τοπικά διαμορφωμένη με τις ρυθμίσεις "
+#~ "της στο home.mycroft.ai."
+
+#~ msgid "Disable Disclaimer Card"
+#~ msgstr "Απενεργοποίηση κάρτας αποποίησης"
+
+#~ msgid "Open"
+#~ msgstr "Άνοιγμα"
+
+#~ msgid "Broad Recognition"
+#~ msgstr "Ευρεία αναγνώριση"
+
+#~ msgid "OCR Recognition"
+#~ msgstr "OCR αναγνώριση"
+
+#~ msgid ""
+#~ "I am not connected to the internet, Please check your network connection"
+#~ msgstr "Δεν έχω συνδεθεί στο διαδίκτυο, ελέγξτε τη σύνδεσή σας"
+
+#~ msgid "<b>Disabled</b>"
+#~ msgstr "<b>Απενεργοποιημένο</b>"
+
+#~ msgid "<b>Starting up..please wait</b>"
+#~ msgstr "<b>Γίνεται εκκίνηση..περιμένετε</b>"
+
+#~ msgid "<b>Connected</b>"
+#~ msgstr "<b>Συνδεδεμένο</b>"
+
+#~ msgid "Ready..Let's Talk"
+#~ msgstr "Ετοιμη..Μιλάμε"
+
+#~ msgid "<b>Connection error</b>"
+#~ msgstr "<b>Σφάλμα σύνδεσης</b>"
+
+#~ msgid "<b>Shutting down</b>"
+#~ msgstr "<b>Τερματισμός</b>"
+
+#~ msgid "Settings"
+#~ msgstr "Ρυθμίσεις"
+
+#~ msgid "Dash"
+#~ msgstr "Συστατικό"
+
+#~ msgid "<i>Your Mycroft Core Installation Path</i>"
+#~ msgstr "<i>Η διαδρομή εγκατάστασης του Mycroft core</i>"
+
+#~ msgid "Installed Using Mycroft Package"
+#~ msgstr "Εγκαταστάθηκε με χρήση του πακέτου mycroft"
+
+#~ msgid "Location of Mycroft-Core Directory"
+#~ msgstr "Θέση του καταλόγου Mycroft-core"
+
+#~ msgid "<custom location>/mycroft-core/"
+#~ msgstr "<custom location>/mycroft-core/"
+
+#~ msgid "ws://0.0.0.0:8181/core"
+#~ msgstr "ws://0.0.0.0:8181/core"
+
+#~ msgid "Your Custom Image Recognition Skill Voc Keywords"
+#~ msgstr ""
+#~ "Οι φωνητικές λέξεις κλειδιά της προσαρμοσμένης δεξιότητας αναγνώρισης "
+#~ "εικόνων"
+
+#~ msgid "search image url"
+#~ msgstr "αναζήτηση στο url εικόνας"
+
+#~ msgid "Your Custom Image OCR Skill Voc Keywords"
+#~ msgstr "Οι φωνητικές λέξεις κλειδιά της προσαρμοσμένης δεξιότητας OCR"
+
+#~ msgid "ocr image url"
+#~ msgstr "url της ocr εικόνας"
+
+#~ msgid "Enable Fallback To Wolfram Alpha Web-Search"
+#~ msgstr "Ενεργοποίηση αναπλήρωσης στην αναζήτηση Wolfram Alpha"
+
+#~ msgid "Wolfram Alpha API:"
+#~ msgstr "Wolfram Alpha API:"
+
+#~ msgid "RJVUY3-T6YLWQVXRR"
+#~ msgstr "RJVUY3-T6YLWQVXRR"
+
+#~ msgid ""
+#~ "<i>Please Note: Default path is set to /home/$USER/mycroft-core/. Change "
+#~ "the above settings to match your installation</i>"
+#~ msgstr ""
+#~ "<i>Σημειώστε: Η προκαθορισμένη διαδρομή έχει ρυθμιστεί στο /home/$USER/"
+#~ "mycroft-core/. Αλλάξτε τις παραπάνω ρυθμίσεις για να ταιριάζουν στην "
+#~ "εγκατάστασή σας</i>"
+
+#~ msgid "Enable / Disable Dashboard"
+#~ msgstr "(Απ)ενεργοποίηση πίνακα συστατικών"
+
+#~ msgid "Enable / Disable Disclaimer Card"
+#~ msgstr "(Απ)ενεργοποίηση κάρτας αποποίησης"
+
+#~ msgid "Enable / Disable News Card"
+#~ msgstr "(Απ)ενεργοποίηση κάρτας ειδησεογραφίας"
+
+#~ msgid "Enable / Disable Cryptocurrency Card"
+#~ msgstr "(Απ)ενεργοποίηση κάρτας κρυπτονομίσματος"
+
+#~ msgid "Selected CryptoCurrency:"
+#~ msgstr "Επιλεγμένο κρυπτονόμισμα:"
+
+#~ msgid "Display Currencies:"
+#~ msgstr "Εμφάνιση νομισμάτων:"
+
+#~ msgid "NewsApi App_Key:"
+#~ msgstr "NewsApi App_Key:"
+
+#~ msgid "Enable / Disable Weather Card"
+#~ msgstr "(Απ)ενεργοποίηση κάρτας καιρού"
+
+#~ msgid "Open Weather Map App_ID:"
+#~ msgstr "Open Weather Map App_ID:"
+
+#~ msgid "Celcius"
+#~ msgstr "Celcius"
+
+#~ msgid "Fahrenheit"
+#~ msgstr "Fahrenheit"
+
+#~ msgid "Version: %1"
+#~ msgstr "Έκδοση: %1"
+
+#~ msgid "Uninstall"
+#~ msgstr "Απεγκατάσταση"
+
+#~ msgid "Install"
+#~ msgstr "Εγκατάσταση"
+
+#~ msgid "Update"
+#~ msgstr "Ενημέρωση"
+
+#~ msgid "Readme"
+#~ msgstr "Readme"
+
+#~ msgid "Configure"
+#~ msgstr "Διαμόρφωση"
+
+#~ msgctxt "mtrs stands for meters"
+#~ msgid "Distance: %1 <i>mtrs</i>"
+#~ msgstr "Απόσταση: %1 <i>mtrs</i>"
+
+#~ msgid "Address: %1"
+#~ msgstr "Διεύθυνση: %1"
+
+#~ msgid "<i>Powered By: Here.API</i>"
+#~ msgstr "<i>Υποστήριξη: Here.API</i>"
+
+#~ msgid "Refresh Dashboard"
+#~ msgstr "Ανανέωση πίνακα συστατικών"
+
+#~ msgid "Change Settings"
+#~ msgstr "Αλλαγή ρυθμίσεων"
+
+#~ msgid "<i>Calories:</i> %1 <b>cal</b>"
+#~ msgstr "<i>Θερμίδες:</i> %1 <b>cal</b>"
+
+#~ msgid "<i>Diet Type:</i> %1"
+#~ msgstr "<i>Τύπος δίαιτας:</i> %1"
+
+#~ msgid "<i>Health Tags:</i> %1"
+#~ msgstr "<i>Ετικέτες υγείας:</i> %1"
+
+#~ msgid "View Recipe"
+#~ msgstr "Προβολή συνταγής"
+
+#~ msgid "<i>Recipe Source: %1</i>"
+#~ msgstr "<i>Πηγή συνταγής: %1</i>"
+
+#~ msgid "<i>Powered By: Edamam.com</i>"
+#~ msgstr "<i>Υποστήριξη: Edaman.com</i>"
+
+#~ msgid "Close Ingredients List"
+#~ msgstr "Κλείσιμο λίστας συστατικών"
+
+#~ msgid "<b>Command:</b> %1"
+#~ msgstr "<b>Εντολή:</b> %1"
+
+#~ msgid "<i>%1</i>"
+#~ msgstr "<i>%1</i>"
+
+#~ msgid "Answered"
+#~ msgstr "Απαντήθηκε"
+
+#~ msgid "Unanswered"
+#~ msgstr "Δεν απαντήθηκε"
+
+#~ msgid "Replies: %1"
+#~ msgstr "Απαντήσεις: %1"
+
+#~ msgid "Powered By StackOverflow"
+#~ msgstr "Υποστήριξη από StackOverflow"
+
+#~ msgid "Stock Price Info"
+#~ msgstr "Πληροφορίες τιμών μετοχών"
+
+#~ msgid "Text"
+#~ msgstr "Κείμενο"
+
+#~ msgid "Stock Price:"
+#~ msgstr "Τιμή μετοχής:"
+
+#~ msgid "128.89"
+#~ msgstr "128.89"
+
+#~ msgid "Ask Another"
+#~ msgstr "Ερώτηση αλλού"
+
+#~ msgid "Stop"
+#~ msgstr "Διακοπή"
+
+#~ msgid "Clear"
+#~ msgstr "Καθαρισμός"
+
+#~ msgid "Low"
+#~ msgstr "Χαμηλό"
+
+#~ msgid "100"
+#~ msgstr "100"
+
+#~ msgid "°"
+#~ msgstr "°"
+
+#~ msgid "High"
+#~ msgstr "Υψηλό"
+
+#~ msgid "Tomorrow's Weather"
+#~ msgstr "Ο αυριανός καιρός"
+
+#~ msgid "Play"
+#~ msgstr "Αναπαραγωγή"
+
+#~ msgid "Wikipedia"
+#~ msgstr "Βικιπαίδεια"
+
+#~ msgid "<i>Phone:</i> %1"
+#~ msgstr "<i>Τηλέφωνο:</i> %1"
+
+#~ msgid "<i>Location:</i> %1"
+#~ msgstr "<i>Θέση:</i> %1"
+
+#~ msgid "<i>Rating:</i> %1 Stars"
+#~ msgstr "<i>Αξιολόγηση:</i> %1 αστέρια"
+
+#~ msgid "Checkout"
+#~ msgstr "Λήψη"
+
+#~ msgid "Send As Text"
+#~ msgstr "Αποστολή ως κείμενο"
+
+#~ msgid "<i>Powered By: Yelp.com</i>"
+#~ msgstr "<i>Υποστήριξη: Yelp.com</i>"

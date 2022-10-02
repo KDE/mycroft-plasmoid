@@ -1,0 +1,568 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Stefan Asserhäll <stefan.asserhall@bredband.net>, 2017, 2018, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-04 03:06+0100\n"
+"PO-Revision-Date: 2019-08-15 11:45+0100\n"
+"Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
+"Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: contents/config/config.qml:25
+#, kde-format
+msgid "General"
+msgstr "Allmänt"
+
+#: contents/ui/BottomBarViewComponent.qml:71
+#, kde-format
+msgid "Enter Query or Say 'Hey Mycroft'"
+msgstr "Skriv in fråga eller säg 'Hey Mycroft'"
+
+#: contents/ui/config/configGeneral.qml:45
+#, kde-format
+msgid "Websocket Address:"
+msgstr "Webbuttagsadress:"
+
+#: contents/ui/config/configGeneral.qml:53
+#, kde-format
+msgid "Additional Settings:"
+msgstr "Ytterligare inställningar:"
+
+#: contents/ui/config/configGeneral.qml:54
+#, kde-format
+msgid "Enable Notifications"
+msgstr "Aktivera underrättelser"
+
+#: contents/ui/config/configGeneral.qml:60
+#, kde-format
+msgid "Enable Remote TTS"
+msgstr "Aktivera fjärr-TTS"
+
+#: contents/ui/FullRepresentation.qml:85
+#, kde-format
+msgid "Conversation"
+msgstr "Samtal"
+
+#: contents/ui/FullRepresentation.qml:91
+#, kde-format
+msgid "Hints & Tips"
+msgstr "Råd och tips"
+
+#: contents/ui/FullRepresentation.qml:97
+#, kde-format
+msgid "Skill Browser"
+msgstr "Färdighetsbläddrare"
+
+#: contents/ui/SkillsInstallerComponent.qml:98
+#, kde-format
+msgid "Search Skills"
+msgstr "Sök efter färdigheter"
+
+#: contents/ui/SkillsInstallerComponent.qml:116
+#, kde-format
+msgid "Refresh List"
+msgstr "Uppdatera lista"
+
+#: contents/ui/TopBarViewComponent.qml:73
+#, kde-format
+msgid "Mycroft"
+msgstr "Mycroft"
+
+#: contents/ui/TopBarViewComponent.qml:99
+#, kde-format
+msgid "Disconnected"
+msgstr "Nerkopplad"
+
+#: contents/ui/TopBarViewComponent.qml:120
+#, kde-format
+msgid "Connect"
+msgstr "Anslut"
+
+#: contents/ui/TopBarViewComponent.qml:138
+#, kde-format
+msgid "Toggle Mic"
+msgstr "Stäng av eller sätt på mikrofon"
+
+#~ msgid "Enable Remote STT"
+#~ msgstr "Aktivera fjärr-STT"
+
+#~ msgid "Default View:"
+#~ msgstr "Standardvy:"
+
+#~ msgid "Remove"
+#~ msgstr "Ta bort"
+
+#~ msgid "Search Online"
+#~ msgstr "Sök på nätet"
+
+#~ msgid "<i>Location: %1</i>"
+#~ msgstr "<i>Plats: %1</i>"
+
+#~ msgid "Listen"
+#~ msgstr "Lyssna"
+
+#~ msgid "Author: %1"
+#~ msgstr "Upphovsman: %1"
+
+#~ msgid "Publisher: %1"
+#~ msgstr "Förläggare: %1"
+
+#~ msgid "Release Year: %1"
+#~ msgstr "Utgivningsår: %1"
+
+#~ msgid "Availability: %1"
+#~ msgstr "Tillgänglighet: %1"
+
+#~ msgid "Read Online"
+#~ msgstr "Läs på nätet"
+
+#~ msgid "Download"
+#~ msgstr "Ladda ner"
+
+#~ msgid "Minimum Temperature: %1"
+#~ msgstr "Lägsta temperatur: %1"
+
+#~ msgid "Current Temperature: %1"
+#~ msgstr "Aktuell temperatur: %1"
+
+#~ msgid "Maximum Temperature: %1"
+#~ msgstr "Högsta temperatur: %1"
+
+#~ msgid "Share Via Email"
+#~ msgstr "Dela via e-post"
+
+#~ msgid "Currency: %1"
+#~ msgstr "Valuta: %1"
+
+#~ msgctxt "%1 is the currency symbol, %2 is the current rate"
+#~ msgid "%1: %2"
+#~ msgstr "%1: %2"
+
+#~ msgid "Remove Card"
+#~ msgstr "Ta bort kort"
+
+#~ msgid "Disable Cryptocurrency Card"
+#~ msgstr "Inaktivera kryptovalutakort"
+
+#~ msgid "<i>Powered By: NewsAPI</i>"
+#~ msgstr "<i>Drivs av NewsAPI</i>"
+
+#~ msgid "Play / Listen To News Article"
+#~ msgstr "Spela eller lyssna på nyhetsartikel"
+
+#~ msgid "Share News Link"
+#~ msgstr "Dela nyhetslänk"
+
+#~ msgid "Disable News Cards"
+#~ msgstr "Inaktivera nyhetskort"
+
+#~ msgid "%1 | %2"
+#~ msgstr "%1 | %2"
+
+#~ msgid "Wind | %1 meters/sec"
+#~ msgstr "Vind | %1 sekundmeter"
+
+#~ msgid "Date: %1 | Time: %2"
+#~ msgstr "Datum: %1 | Tid: %2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Minimum Temperature: %1%2"
+#~ msgstr "Lägsta temperatur: %1%2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Current Temperature: %1%2"
+#~ msgstr "Aktuell temperatur: %1%2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Maximum Temperature: %1%2"
+#~ msgstr "Högsta temperatur: %1%2"
+
+#~ msgid "Expand Forecast"
+#~ msgstr "Utöka prognos"
+
+#~ msgid "Close"
+#~ msgstr "Stäng"
+
+#~ msgctxt "D stand for Day, T stands for Time"
+#~ msgid "D: %1 | T: %2"
+#~ msgstr "D: %1 | T: %2"
+
+#~ msgid "Condition: %1"
+#~ msgstr "Förhållanden: %1"
+
+#~ msgid "Wind: %1 meters/sec"
+#~ msgstr "Vind: %1 sekundmeter"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Min: %1%2"
+#~ msgstr "Min: %1%2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Max: %1%2"
+#~ msgstr "Max: %1%2"
+
+#~ msgid "<i>Powered By: OpenWeatherMap</i>"
+#~ msgstr "<i>Drivs av: OpenWeatherMap</i>"
+
+#~ msgid "Disable Weather Cards"
+#~ msgstr "Inaktivera väderkort"
+
+#~ msgid "Let's Continue?"
+#~ msgstr "Låt oss fortsätta?"
+
+#~ msgid ""
+#~ "Mycroft by default is powered by a cloud-based speech to text service. "
+#~ "Mycroft gives you the ability to change speech to text services or use a "
+#~ "locally configured one within their settings at home.mycroft.ai. If you "
+#~ "agree to the default usage of Mycroft’s speech to text service, please "
+#~ "continue. Also remember you can always choose to turn off or mute Mycroft "
+#~ "when you do not wish to use it."
+#~ msgstr ""
+#~ "Normalt drivs Mycroft av en molnbaserad tal till text-tjänst. Mycroft ger "
+#~ "dig möjlighet att ändra tal till text-tjänster eller använda en lokalt "
+#~ "inställd inom inställningarna på home.mycroft.ai. Fortsätt om du går med "
+#~ "på den normala användningen av Mycrofts tal till text-tjänst. Kom också "
+#~ "ihåg att du alltid kan stänga av eller tysta Mycroft när du inte vill "
+#~ "använda det."
+
+#~ msgid "To start using Mycroft toggle the switch in the upper right corner!"
+#~ msgstr ""
+#~ "Växla omkopplaren i övre högra hörnet för att börja använda Mycroft."
+
+#~ msgid ""
+#~ "Mycroft by default is powered by a cloud-based speech to text service. "
+#~ "Mycroft gives you the ability to change speech to text services or use a "
+#~ "locally configured one within their settings at home.mycroft.ai."
+#~ msgstr ""
+#~ "Normalt drivs Mycroft av en molnbaserad tal till text-tjänst. Mycroft ger "
+#~ "dig möjlighet att ändra tal till text-tjänster eller använda en lokalt "
+#~ "inställd inom inställningarna på home.mycroft.ai."
+
+#~ msgid "Disable Disclaimer Card"
+#~ msgstr "Inaktivera varningskort"
+
+#~ msgid "Open"
+#~ msgstr "Öppna"
+
+#~ msgid "Broad Recognition"
+#~ msgstr "Bred igenkänning"
+
+#~ msgid "OCR Recognition"
+#~ msgstr "Teckenigenkänning"
+
+#~ msgid ""
+#~ "I am not connected to the internet, Please check your network connection"
+#~ msgstr "Inte ansluten till Internet. Kontrollera nätverksanslutningen."
+
+#~ msgid "<b>Disabled</b>"
+#~ msgstr "<b>Inaktiverad</b>"
+
+#~ msgid "<b>Starting up..please wait</b>"
+#~ msgstr "<b>Startar ... vänta</b>"
+
+#~ msgid "<b>Connected</b>"
+#~ msgstr "<b>Ansluten</b>"
+
+#~ msgid "Ready..Let's Talk"
+#~ msgstr "Klar ... Låt oss prata"
+
+#~ msgid "<b>Connection error</b>"
+#~ msgstr "<b>Anslutningsfel</b>"
+
+#~ msgid "<b>Shutting down</b>"
+#~ msgstr "<b>Stänger av</b>"
+
+#~ msgid "Settings"
+#~ msgstr "Inställningar"
+
+#~ msgid "Dash"
+#~ msgstr "Instrumentbräda"
+
+#~ msgid "<i>Your Mycroft Core Installation Path</i>"
+#~ msgstr "<i>Installationssökvägen till Mycrofts kärna</i>"
+
+#~ msgid "Installed Using Mycroft Package"
+#~ msgstr "Installerad med användning av Mycroft-paketet"
+
+#~ msgid "Location of Mycroft-Core Directory"
+#~ msgstr "Mycroft-kärnans katalogplats"
+
+#~ msgid "<custom location>/mycroft-core/"
+#~ msgstr "<egen plats>/mycroft-core/"
+
+#~ msgid "ws://0.0.0.0:8181/core"
+#~ msgstr "ws://0.0.0.0:8181/core"
+
+#~ msgid "Your Custom Image Recognition Skill Voc Keywords"
+#~ msgstr "Röstnyckelord för egen bildigenkänningsfärdighet"
+
+#~ msgid "search image url"
+#~ msgstr "Sök efter bildwebbadress"
+
+#~ msgid "Your Custom Image OCR Skill Voc Keywords"
+#~ msgstr "Röstnyckelord för egen bildigenkänningsfärdighet"
+
+#~ msgid "ocr image url"
+#~ msgstr "Webbadress för optisk teckentydning"
+
+#~ msgid "Enable Fallback To Wolfram Alpha Web-Search"
+#~ msgstr "Aktivera reservalternativet Wolfram Alpha webbsökning"
+
+#~ msgid "Wolfram Alpha API:"
+#~ msgstr "Wolfram Alpha programmeringsgränssnitt:"
+
+#~ msgid "RJVUY3-T6YLWQVXRR"
+#~ msgstr "RJVUY3-T6YLWQVXRR"
+
+#~ msgid ""
+#~ "<i>Please Note: Default path is set to /home/$USER/mycroft-core/. Change "
+#~ "the above settings to match your installation</i>"
+#~ msgstr ""
+#~ "<i>Observera: Standardsökvägen är inställd till /home/$USER/mycroft-"
+#~ "core/. Ändra inställningarna ovan för att motsvara din installation.</i>"
+
+#~ msgid "Enable / Disable Dashboard"
+#~ msgstr "Aktivera eller inaktivera instrumentpanel"
+
+#~ msgid "Enable / Disable Disclaimer Card"
+#~ msgstr "Aktivera eller inaktivera varningskort"
+
+#~ msgid "Enable / Disable News Card"
+#~ msgstr "Aktivera eller inaktivera nyhetskort"
+
+#~ msgid "Enable / Disable Cryptocurrency Card"
+#~ msgstr "Aktivera eller inaktivera kryptovalutakort"
+
+#~ msgid "Selected CryptoCurrency:"
+#~ msgstr "Vald kryptovaluta:"
+
+#~ msgid "Display Currencies:"
+#~ msgstr "Visa valutor:"
+
+#~ msgid "NewsApi App_Key:"
+#~ msgstr "NewsApi App_Key:"
+
+#~ msgid "Enable / Disable Weather Card"
+#~ msgstr "Aktivera eller inaktivera väderkort"
+
+#~ msgid "Open Weather Map App_ID:"
+#~ msgstr "Visa väderkarta App_ID:"
+
+#~ msgid "Celcius"
+#~ msgstr "Celcius"
+
+#~ msgid "Fahrenheit"
+#~ msgstr "Fahrenheit"
+
+#~ msgid "Version: %1"
+#~ msgstr "Version: %1"
+
+#~ msgid "Uninstall"
+#~ msgstr "Avinstallera"
+
+#~ msgid "Install"
+#~ msgstr "Installera"
+
+#~ msgid "Update"
+#~ msgstr "Uppdatera"
+
+#~ msgid "Readme"
+#~ msgstr "Läs detta"
+
+#~ msgid "Configure"
+#~ msgstr "Anpassa"
+
+#~ msgctxt "mtrs stands for meters"
+#~ msgid "Distance: %1 <i>mtrs</i>"
+#~ msgstr "Avstånd: %1 <i>m</i>"
+
+#~ msgid "Address: %1"
+#~ msgstr "Adress: %1"
+
+#~ msgid "<i>Powered By: Here.API</i>"
+#~ msgstr "<i>Drivs av: Here.API</i>"
+
+#~ msgid "Refresh Dashboard"
+#~ msgstr "Uppdatera instrumentpanel"
+
+#~ msgid "Change Settings"
+#~ msgstr "Ändra inställningar"
+
+#~ msgid "<i>Calories:</i> %1 <b>cal</b>"
+#~ msgstr "<i>Kalorier:</i> %1 <b>cal</b>"
+
+#~ msgid "<i>Diet Type:</i> %1"
+#~ msgstr "<i>Typ av diet:</i> %1"
+
+#~ msgid "<i>Health Tags:</i> %1"
+#~ msgstr "<i>Hälsoetiketter:</i> %1"
+
+#~ msgid "View Recipe"
+#~ msgstr "Visa recept"
+
+#~ msgid "<i>Recipe Source: %1</i>"
+#~ msgstr "<i>Receptkälla: %1</i>"
+
+#~ msgid "<i>Powered By: Edamam.com</i>"
+#~ msgstr "<i>Drivs av: Edamam.com</i>"
+
+#~ msgid "Close Ingredients List"
+#~ msgstr "Stäng ingredienslista"
+
+#~ msgid "<b>Command:</b> %1"
+#~ msgstr "<b>Kommando:</b> %1"
+
+#~ msgid "<i>%1</i>"
+#~ msgstr "<i>%1</i>"
+
+#~ msgid "Answered"
+#~ msgstr "Besvarat"
+
+#~ msgid "Unanswered"
+#~ msgstr "Obesvarad"
+
+#~ msgid "Replies: %1"
+#~ msgstr "Svar: %1"
+
+#~ msgid "Powered By StackOverflow"
+#~ msgstr "Drivs av StackOverflow"
+
+#~ msgid "Stock Price Info"
+#~ msgstr "Aktiekursinformation"
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "Stock Price:"
+#~ msgstr "Aktiekurs:"
+
+#~ msgid "128.89"
+#~ msgstr "128,89"
+
+#~ msgid "Ask Another"
+#~ msgstr "Fråga igen"
+
+#~ msgid "Stop"
+#~ msgstr "Stoppa"
+
+#~ msgid "Clear"
+#~ msgstr "Rensa"
+
+#~ msgid "Low"
+#~ msgstr "Låg"
+
+#~ msgid "100"
+#~ msgstr "100"
+
+#~ msgid "°"
+#~ msgstr "°"
+
+#~ msgid "High"
+#~ msgstr "Hög"
+
+#~ msgid "Tomorrow's Weather"
+#~ msgstr "Morgondagens väder"
+
+#~ msgid "Play"
+#~ msgstr "Spela"
+
+#~ msgid "Wikipedia"
+#~ msgstr "Wikipedia"
+
+#~ msgid "<i>Phone:</i> %1"
+#~ msgstr "<i>Telefon:</i> %1"
+
+#~ msgid "<i>Location:</i> %1"
+#~ msgstr "<i>Plats:</i> %1"
+
+#~ msgid "<i>Rating:</i> %1 Stars"
+#~ msgstr "<i>Betyg:</i> %1 stjärnor"
+
+#~ msgid "Checkout"
+#~ msgstr "Checka ut"
+
+#~ msgid "Send As Text"
+#~ msgstr "Skicka som text"
+
+#~ msgid "<i>Powered By: Yelp.com</i>"
+#~ msgstr "<i>Drivs av: Yelp.com</i>"
+
+#~ msgid "Alarm"
+#~ msgstr "Alarm"
+
+#~| msgid "Date: %1 | Time: %2"
+#~ msgid "Date & Time"
+#~ msgstr "Datum och tid"
+
+#~ msgid "Desktop"
+#~ msgstr "Skrivbord"
+
+#~ msgid "Joke"
+#~ msgstr "Skämt"
+
+#~ msgid "Spell"
+#~ msgstr "Stavning"
+
+#~ msgid "Productivity"
+#~ msgstr "Produktivitet"
+
+#~ msgid "WiKi"
+#~ msgstr "Wiki"
+
+#~| msgid "Wolfram Alpha API:"
+#~ msgid "Wolfram Alpha"
+#~ msgstr "Wolfram Alpha"
+
+#~ msgid "Weather"
+#~ msgstr "Väder"
+
+#~ msgid " : "
+#~ msgstr " : "
+
+#~ msgid " | "
+#~ msgstr " | "
+
+#~ msgid "Wind | "
+#~ msgstr "Vind | "
+
+#~ msgid "Date: "
+#~ msgstr "Datum: "
+
+#~ msgid "D: "
+#~ msgstr "D: "
+
+#~ msgid "Wind: "
+#~ msgstr "Vind:"
+
+#~ msgid "<b>Ready</b>"
+#~ msgstr "<b>Klar</b>"
+
+#~ msgid "USD: $"
+#~ msgstr "USD: $"
+
+#~ msgid "GBP: £"
+#~ msgstr "GBP: £"
+
+#~ msgid "EURO: €"
+#~ msgstr "Euro: €"
+
+#~ msgid "Home Tab"
+#~ msgstr "Hemflik"
+
+#~ msgid "Skills Tab"
+#~ msgstr "Färdighetsflik"
+
+#~ msgid "Skill Installs Tab"
+#~ msgstr "Installationsflik för färdigheter"
+
+#~ msgid "Mycroft is Disabled"
+#~ msgstr "Mycroft är inaktiverad"

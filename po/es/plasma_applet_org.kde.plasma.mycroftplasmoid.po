@@ -1,0 +1,562 @@
+# Spanish translations for plasma_applet_org.kde.plasma.mycroftplasmoid.po package.
+# Copyright (C) 2017 This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sofia Priego <spriego@darksylvania.net>, %Y.
+# Sofía Priego <spriego@darksylvania.net>, %Y.
+# Automatically generated, 2017.
+# Eloy Cuadra <ecuadra@eloihr.net>, 2017, 2018, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_org\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-03-04 03:06+0100\n"
+"PO-Revision-Date: 2019-08-15 19:27+0100\n"
+"Last-Translator: Sofia Priego <spriego@darksylvania.net>\n"
+"Language-Team: Spanish <kde-l10n-es@kde.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.07.90\n"
+
+#: contents/config/config.qml:25
+#, kde-format
+msgid "General"
+msgstr "General"
+
+#: contents/ui/BottomBarViewComponent.qml:71
+#, kde-format
+msgid "Enter Query or Say 'Hey Mycroft'"
+msgstr "Introduzca una consulta o diga «Hola Mycroft»"
+
+#: contents/ui/config/configGeneral.qml:45
+#, kde-format
+msgid "Websocket Address:"
+msgstr "Dirección de Websocket:"
+
+#: contents/ui/config/configGeneral.qml:53
+#, kde-format
+msgid "Additional Settings:"
+msgstr "Preferencias adicionales:"
+
+#: contents/ui/config/configGeneral.qml:54
+#, kde-format
+msgid "Enable Notifications"
+msgstr "Activar notificaciones"
+
+#: contents/ui/config/configGeneral.qml:60
+#, kde-format
+msgid "Enable Remote TTS"
+msgstr "Activar TTS remoto"
+
+#: contents/ui/FullRepresentation.qml:85
+#, kde-format
+msgid "Conversation"
+msgstr "Conversación"
+
+#: contents/ui/FullRepresentation.qml:91
+#, kde-format
+msgid "Hints & Tips"
+msgstr "Ayudas y consejos"
+
+#: contents/ui/FullRepresentation.qml:97
+#, kde-format
+msgid "Skill Browser"
+msgstr "Navegador de habilidades"
+
+#: contents/ui/SkillsInstallerComponent.qml:98
+#, kde-format
+msgid "Search Skills"
+msgstr "Habilidades de búsqueda"
+
+#: contents/ui/SkillsInstallerComponent.qml:116
+#, kde-format
+msgid "Refresh List"
+msgstr "Actualizar la lista"
+
+#: contents/ui/TopBarViewComponent.qml:73
+#, kde-format
+msgid "Mycroft"
+msgstr "Mycroft"
+
+#: contents/ui/TopBarViewComponent.qml:99
+#, kde-format
+msgid "Disconnected"
+msgstr "Desconectado"
+
+#: contents/ui/TopBarViewComponent.qml:120
+#, kde-format
+msgid "Connect"
+msgstr "Conectar"
+
+#: contents/ui/TopBarViewComponent.qml:138
+#, kde-format
+msgid "Toggle Mic"
+msgstr "Conmutar el micrófono"
+
+#~ msgid "Enable Remote STT"
+#~ msgstr "Activar STT remoto"
+
+#~ msgid "Default View:"
+#~ msgstr "Vista por omisión:"
+
+#~ msgid "Remove"
+#~ msgstr "Eliminar"
+
+#~ msgid "Search Online"
+#~ msgstr "Buscar en línea"
+
+#~ msgid "<i>Location: %1</i>"
+#~ msgstr "<i>Posición: %1</i>"
+
+#~ msgid "Listen"
+#~ msgstr "Escuchar"
+
+#~ msgid "Author: %1"
+#~ msgstr "Autor: %1"
+
+#~ msgid "Publisher: %1"
+#~ msgstr "Editor: %1"
+
+#~ msgid "Release Year: %1"
+#~ msgstr "Año de lanzamiento: %1"
+
+#~ msgid "Availability: %1"
+#~ msgstr "Disponibilidad: %1"
+
+#~ msgid "Read Online"
+#~ msgstr "Leer en línea"
+
+#~ msgid "Download"
+#~ msgstr "Descargar"
+
+#~ msgid "Minimum Temperature: %1"
+#~ msgstr "Temperatura mínima: %1"
+
+#~ msgid "Current Temperature: %1"
+#~ msgstr "Temperatura actual: %1"
+
+#~ msgid "Maximum Temperature: %1"
+#~ msgstr "Temperatura máxima: %1"
+
+#~ msgid "Share Via Email"
+#~ msgstr "Compartir por correo electrónico"
+
+#~ msgid "Currency: %1"
+#~ msgstr "Moneda: %1"
+
+#~ msgctxt "%1 is the currency symbol, %2 is the current rate"
+#~ msgid "%1: %2"
+#~ msgstr "%1: %2"
+
+#~ msgid "Remove Card"
+#~ msgstr "Eliminar tarjeta"
+
+#~ msgid "Disable Cryptocurrency Card"
+#~ msgstr "Desactivar la tarjeta de criptomonedas"
+
+#~ msgid "<i>Powered By: NewsAPI</i>"
+#~ msgstr "<i>Funciona con: NewsAPI</i>"
+
+#~ msgid "Play / Listen To News Article"
+#~ msgstr "Reproducir/escuchar artículo de noticias"
+
+#~ msgid "Share News Link"
+#~ msgstr "Compartir enlace de noticias"
+
+#~ msgid "Disable News Cards"
+#~ msgstr "Desactivar la tarjeta de noticias"
+
+#~ msgid "%1 | %2"
+#~ msgstr "%1 | %2"
+
+#~ msgid "Wind | %1 meters/sec"
+#~ msgstr "Viento | %1 metros/seg"
+
+#~ msgid "Date: %1 | Time: %2"
+#~ msgstr "Fecha: %1 | Hora: %2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Minimum Temperature: %1%2"
+#~ msgstr "Temperatura mínima: %1%2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Current Temperature: %1%2"
+#~ msgstr "Temperatura actual: %1%2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Maximum Temperature: %1%2"
+#~ msgstr "Temperatura máxima: %1%2"
+
+#~ msgid "Expand Forecast"
+#~ msgstr "Expandir la previsión"
+
+#~ msgid "Close"
+#~ msgstr "Cerrar"
+
+#~ msgctxt "D stand for Day, T stands for Time"
+#~ msgid "D: %1 | T: %2"
+#~ msgstr "F: %1 | H: %2"
+
+#~ msgid "Condition: %1"
+#~ msgstr "Estado: %1"
+
+#~ msgid "Wind: %1 meters/sec"
+#~ msgstr "Viento: %1 metros/seg"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Min: %1%2"
+#~ msgstr "Mín: %1%2"
+
+#~ msgctxt "%1 is value, %2 is unit (Celsius or Fahrenheit degree)"
+#~ msgid "Max: %1%2"
+#~ msgstr "Máx: %1%2"
+
+#~ msgid "<i>Powered By: OpenWeatherMap</i>"
+#~ msgstr "<i>Funciona con: OpenWeatherMap</i>"
+
+#~ msgid "Disable Weather Cards"
+#~ msgstr "Desactivar la tarjeta de condiciones meteorológicas"
+
+#~ msgid "Let's Continue?"
+#~ msgstr "¿Continuamos?"
+
+#~ msgid ""
+#~ "Mycroft by default is powered by a cloud-based speech to text service. "
+#~ "Mycroft gives you the ability to change speech to text services or use a "
+#~ "locally configured one within their settings at home.mycroft.ai. If you "
+#~ "agree to the default usage of Mycroft’s speech to text service, please "
+#~ "continue. Also remember you can always choose to turn off or mute Mycroft "
+#~ "when you do not wish to use it."
+#~ msgstr ""
+#~ "Por omisión, Mycroft funciona con un servicio de reconocimiento de voz "
+#~ "basado en la nube. Mycroft le ofrece la posibilidad de cambiar el "
+#~ "servicio de reconocimiento de voz o usar uno configurado localmente en "
+#~ "sus preferencias en home.mycroft.ai. Si está conforme con el uso del "
+#~ "servicio de reconocimiento de voz por omisión de Mycroft, continúe. "
+#~ "Recuerde también que siempre tiene la posibilidad de apagar o silenciar "
+#~ "Mycroft cuando no desee usarlo."
+
+#~ msgid "To start using Mycroft toggle the switch in the upper right corner!"
+#~ msgstr ""
+#~ "Para empezar a usar Mycroft, cambie el interruptor que hay en la esquina "
+#~ "superior derecha."
+
+#~ msgid ""
+#~ "Mycroft by default is powered by a cloud-based speech to text service. "
+#~ "Mycroft gives you the ability to change speech to text services or use a "
+#~ "locally configured one within their settings at home.mycroft.ai."
+#~ msgstr ""
+#~ "Por omisión, Mycroft funciona con un servicio de reconocimiento de voz "
+#~ "basado en la nube. Mycroft le ofrece la posibilidad de cambiar el "
+#~ "servicio de reconocimiento de voz o usar uno configurado localmente en "
+#~ "sus preferencias en home.mycroft.ai."
+
+#~ msgid "Disable Disclaimer Card"
+#~ msgstr "Desactivar la tarjeta de renuncia de responsabilidades"
+
+#~ msgid "Open"
+#~ msgstr "Abrir"
+
+#~ msgid "Broad Recognition"
+#~ msgstr "Reconocimiento completo"
+
+#~ msgid "OCR Recognition"
+#~ msgstr "Reconocimiento OCR"
+
+#~ msgid ""
+#~ "I am not connected to the internet, Please check your network connection"
+#~ msgstr ""
+#~ "No estoy conectado a Internet. Por favor, compruebe sus conexiones de "
+#~ "redes."
+
+#~ msgid "<b>Disabled</b>"
+#~ msgstr "<b>Desactivado</b>"
+
+#~ msgid "<b>Starting up..please wait</b>"
+#~ msgstr "<b>Iniciando... Por favor, espere</b>"
+
+#~ msgid "<b>Connected</b>"
+#~ msgstr "<b>Conectado</b>"
+
+#~ msgid "Ready..Let's Talk"
+#~ msgstr "Preparado... ¡Hablemos!"
+
+#~ msgid "<b>Connection error</b>"
+#~ msgstr "<b>Error de conexión</b>"
+
+#~ msgid "<b>Shutting down</b>"
+#~ msgstr "<b>Apagando</b>"
+
+#~ msgid "Settings"
+#~ msgstr "Preferencias"
+
+#~ msgid "Dash"
+#~ msgstr "Dash"
+
+#~ msgid "<i>Your Mycroft Core Installation Path</i>"
+#~ msgstr "<i>La ruta de instalación del núcleo de Mycroft</i>"
+
+#~ msgid "Installed Using Mycroft Package"
+#~ msgstr "Instalado usando el paquete Mycroft"
+
+#~ msgid "Location of Mycroft-Core Directory"
+#~ msgstr "Ubicación del directorio del núcleo de Mycroft"
+
+#~ msgid "<custom location>/mycroft-core/"
+#~ msgstr "<ubicación personalizada>/mycroft-core/"
+
+#~ msgid "ws://0.0.0.0:8181/core"
+#~ msgstr "ws://0.0.0.0:8181/core"
+
+#~ msgid "Your Custom Image Recognition Skill Voc Keywords"
+#~ msgstr ""
+#~ "Sus palabras clave personalizadas de la habilidad de reconocimiento de "
+#~ "imágenes"
+
+#~ msgid "search image url"
+#~ msgstr "URL de búsqueda de la imagen"
+
+#~ msgid "Your Custom Image OCR Skill Voc Keywords"
+#~ msgstr ""
+#~ "Sus palabras clave personalizadas de la habilidad de OCR de imágenes"
+
+#~ msgid "ocr image url"
+#~ msgstr "URL de la imagen para OCR"
+
+#~ msgid "Enable Fallback To Wolfram Alpha Web-Search"
+#~ msgstr "Activar como alternativa la búsqueda web de Wolfram Alpha"
+
+#~ msgid "Wolfram Alpha API:"
+#~ msgstr "API de Wolfram Alpha:"
+
+#~ msgid "RJVUY3-T6YLWQVXRR"
+#~ msgstr "RJVUY3-T6YLWQVXRR"
+
+#~ msgid ""
+#~ "<i>Please Note: Default path is set to /home/$USER/mycroft-core/. Change "
+#~ "the above settings to match your installation</i>"
+#~ msgstr ""
+#~ "<i>Por favor, tenga en cuenta que la ruta por omisión apunta a /home/"
+#~ "$USER/mycroft-core/. Modifique esta preferencia para que se ajuste a su "
+#~ "instalación.</i>"
+
+#~ msgid "Enable / Disable Dashboard"
+#~ msgstr "Activar/desactivar el tablero de mandos"
+
+#~ msgid "Enable / Disable Disclaimer Card"
+#~ msgstr "Activar/desactivar la tarjeta de renuncia de responsabilidades"
+
+#~ msgid "Enable / Disable News Card"
+#~ msgstr "Activar/desactivar la tarjeta de noticias"
+
+#~ msgid "Enable / Disable Cryptocurrency Card"
+#~ msgstr "Activar/desactivar la tarjeta de criptomonedas"
+
+#~ msgid "Selected CryptoCurrency:"
+#~ msgstr "Criptomoneda seleccionada:"
+
+#~ msgid "Display Currencies:"
+#~ msgstr "Mostrar divisas:"
+
+#~ msgid "NewsApi App_Key:"
+#~ msgstr "Clave de la aplicación de NewsApi:"
+
+#~ msgid "Enable / Disable Weather Card"
+#~ msgstr "Activar/desactivar la tarjeta de condiciones meteorológicas"
+
+#~ msgid "Open Weather Map App_ID:"
+#~ msgstr "ID de la aplicación de Open Weather Map:"
+
+#~ msgid "Celcius"
+#~ msgstr "Celsius"
+
+#~ msgid "Fahrenheit"
+#~ msgstr "Fahrenheit"
+
+#~ msgid "Version: %1"
+#~ msgstr "Versión: %1"
+
+#~ msgid "Uninstall"
+#~ msgstr "Desinstalar"
+
+#~ msgid "Install"
+#~ msgstr "Instalar"
+
+#~ msgid "Update"
+#~ msgstr "Actualizar"
+
+#~ msgid "Readme"
+#~ msgstr "Léame"
+
+#~ msgid "Configure"
+#~ msgstr "Configurar"
+
+#~ msgctxt "mtrs stands for meters"
+#~ msgid "Distance: %1 <i>mtrs</i>"
+#~ msgstr "Distancia: %1 <i>metros</i>"
+
+#~ msgid "Address: %1"
+#~ msgstr "Dirección: %1"
+
+#~ msgid "<i>Powered By: Here.API</i>"
+#~ msgstr "<i>Funciona con: Here.API</i>"
+
+#~ msgid "Refresh Dashboard"
+#~ msgstr "Actualizar el tablero de mandos"
+
+#~ msgid "Change Settings"
+#~ msgstr "Modificar las preferencias"
+
+#~ msgid "<i>Calories:</i> %1 <b>cal</b>"
+#~ msgstr "<i>Calorías:</i> %1 <b>cal</b>"
+
+#~ msgid "<i>Diet Type:</i> %1"
+#~ msgstr "<i>Tipo de dieta:</i> %1"
+
+#~ msgid "<i>Health Tags:</i> %1"
+#~ msgstr "<i>Etiquetas de salud:</i> %1"
+
+#~ msgid "View Recipe"
+#~ msgstr "Ver receta"
+
+#~ msgid "<i>Recipe Source: %1</i>"
+#~ msgstr "<i>Fuente de la receta: %1</i>"
+
+#~ msgid "<i>Powered By: Edamam.com</i>"
+#~ msgstr "<i>Funciona con: Edamam.com</i>"
+
+#~ msgid "Close Ingredients List"
+#~ msgstr "Cerrar la lista de ingredientes"
+
+#~ msgid "<b>Command:</b> %1"
+#~ msgstr "<b>Orden:</b> %1"
+
+#~ msgid "<i>%1</i>"
+#~ msgstr "<i>%1</i>"
+
+#~ msgid "Answered"
+#~ msgstr "Con respuesta"
+
+#~ msgid "Unanswered"
+#~ msgstr "Sin respuesta"
+
+#~ msgid "Replies: %1"
+#~ msgstr "Respuestas: %1"
+
+#~ msgid "Powered By StackOverflow"
+#~ msgstr "Funciona con StackOverflow"
+
+#~ msgid "Stock Price Info"
+#~ msgstr "Información del precio de las acciones"
+
+#~ msgid "Text"
+#~ msgstr "Texto"
+
+#~ msgid "Stock Price:"
+#~ msgstr "Precio de las acciones:"
+
+#~ msgid "128.89"
+#~ msgstr "128,89"
+
+#~ msgid "Ask Another"
+#~ msgstr "Otra pregunta"
+
+#~ msgid "Stop"
+#~ msgstr "Detener"
+
+#~ msgid "Clear"
+#~ msgstr "Borrar"
+
+#~ msgid "Low"
+#~ msgstr "Baja"
+
+#~ msgid "100"
+#~ msgstr "100"
+
+#~ msgid "°"
+#~ msgstr "°"
+
+#~ msgid "High"
+#~ msgstr "Alta"
+
+#~ msgid "Tomorrow's Weather"
+#~ msgstr "Previsión meteorológica para mañana"
+
+#~ msgid "Play"
+#~ msgstr "Reproducir"
+
+#~ msgid "Wikipedia"
+#~ msgstr "Wikipedia"
+
+#~ msgid "<i>Phone:</i> %1"
+#~ msgstr "<i>Teléfono:</i> %1"
+
+#~ msgid "<i>Location:</i> %1"
+#~ msgstr "<i>Posición:</i> %1"
+
+#~ msgid "<i>Rating:</i> %1 Stars"
+#~ msgstr "<i>Puntuación:</i> %1 estrellas"
+
+#~ msgid "Checkout"
+#~ msgstr "Obtener"
+
+#~ msgid "Send As Text"
+#~ msgstr "Enviar como texto"
+
+#~ msgid "<i>Powered By: Yelp.com</i>"
+#~ msgstr "<i>Funciona con: Yelp.com</i>"
+
+#, fuzzy
+#~| msgid "Date: %1 | Time: %2"
+#~ msgid "Date & Time"
+#~ msgstr "Fecha: %1 | Hora: %2"
+
+#, fuzzy
+#~| msgid "Wolfram Alpha API:"
+#~ msgid "Wolfram Alpha"
+#~ msgstr "API de Wolfram Alpha:"
+
+#~ msgid " : "
+#~ msgstr " : "
+
+#~ msgid " | "
+#~ msgstr " | "
+
+#~ msgid "Wind | "
+#~ msgstr "Viento | "
+
+#~ msgid "Date: "
+#~ msgstr "Fecha: "
+
+#~ msgid "D: "
+#~ msgstr "D: "
+
+#~ msgid "Wind: "
+#~ msgstr "Viento: "
+
+#~ msgid "<b>Ready</b>"
+#~ msgstr "<b>Preparado</b>"
+
+#~ msgid "USD: $"
+#~ msgstr "USD: $"
+
+#~ msgid "GBP: £"
+#~ msgstr "GBP: £"
+
+#~ msgid "EURO: €"
+#~ msgstr "EURO: €"
+
+#~ msgid "Home Tab"
+#~ msgstr "Pestaña de inicio"
+
+#~ msgid "Skills Tab"
+#~ msgstr "Pestaña de habilidades"
+
+#~ msgid "Skill Installs Tab"
+#~ msgstr "Pestaña de instalación de habilidades"
+
+#~ msgid "Mycroft is Disabled"
+#~ msgstr "Mycroft está desactivado"
