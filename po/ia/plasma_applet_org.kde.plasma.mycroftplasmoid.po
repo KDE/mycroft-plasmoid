@@ -1,13 +1,13 @@
 # Copyright (C) YEAR This file is copyright:
 # This file is distributed under the same license as the plasma-mycroft package.
 #
-# giovanni <g.sora@tiscali.it>, 2020, 2021.
+# giovanni <g.sora@tiscali.it>, 2020, 2021, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: plasma-mycroft\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-03-04 03:06+0100\n"
-"PO-Revision-Date: 2021-11-04 22:32+0100\n"
+"PO-Revision-Date: 2023-04-28 23:20+0200\n"
 "Last-Translator: giovanni <g.sora@tiscali.it>\n"
 "Language-Team: Interlingua <kde-i18n-doc@kde.org>\n"
 "Language: ia\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 21.08.2\n"
+"X-Generator: Lokalize 23.04.0\n"
 
 #: contents/config/config.qml:25
 #, kde-format
@@ -25,17 +25,17 @@ msgstr "General"
 #: contents/ui/BottomBarViewComponent.qml:71
 #, kde-format
 msgid "Enter Query or Say 'Hey Mycroft'"
-msgstr ""
+msgstr "Inserta Demanda o Dice \"Hey Mycroft\""
 
 #: contents/ui/config/configGeneral.qml:45
 #, kde-format
 msgid "Websocket Address:"
-msgstr ""
+msgstr "Adresse de Websocket:"
 
 #: contents/ui/config/configGeneral.qml:53
 #, kde-format
 msgid "Additional Settings:"
-msgstr ""
+msgstr "Preferentias additional:"
 
 #: contents/ui/config/configGeneral.qml:54
 #, kde-format
@@ -45,7 +45,7 @@ msgstr "Habilita notificationes"
 #: contents/ui/config/configGeneral.qml:60
 #, kde-format
 msgid "Enable Remote TTS"
-msgstr ""
+msgstr "Habilita Remote TTS"
 
 #: contents/ui/FullRepresentation.qml:85
 #, kde-format
@@ -55,17 +55,17 @@ msgstr "Conversatione"
 #: contents/ui/FullRepresentation.qml:91
 #, kde-format
 msgid "Hints & Tips"
-msgstr ""
+msgstr "Adjutas & suggerentias"
 
 #: contents/ui/FullRepresentation.qml:97
 #, kde-format
 msgid "Skill Browser"
-msgstr ""
+msgstr "Navigator de habilitate"
 
 #: contents/ui/SkillsInstallerComponent.qml:98
 #, kde-format
 msgid "Search Skills"
-msgstr ""
+msgstr "Cerca habilitate"
 
 #: contents/ui/SkillsInstallerComponent.qml:116
 #, kde-format
@@ -90,4 +90,4 @@ msgstr "Connecte"
 #: contents/ui/TopBarViewComponent.qml:138
 #, kde-format
 msgid "Toggle Mic"
-msgstr ""
+msgstr "Commuta Mic"
