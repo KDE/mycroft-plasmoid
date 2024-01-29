@@ -1,26 +1,27 @@
-# Copyright (C) YEAR This file is copyright:
+# Copyright (C) 2024 This file is copyright:
 # This file is distributed under the same license as the plasma-mycroft package.
 #
 # pan93412 <pan93412@gmail.com>, 2019.
+# SPDX-FileCopyrightText: 2024 Kisaragi Hiu <mail@kisaragi-hiu.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: plasma-mycroft\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-11-05 12:41+0000\n"
-"PO-Revision-Date: 2019-03-15 20:22+0800\n"
-"Last-Translator: pan93412 <pan93412@gmail.com>\n"
-"Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
+"PO-Revision-Date: 2024-01-29 00:42+0900\n"
+"Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
+"Language-Team: Traditional Chinese <zh-l10n@lists.slat.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 18.12.3\n"
+"X-Generator: Lokalize 24.01.95\n"
 
 #: contents/config/config.qml:25
 #, kde-format
 msgid "General"
-msgstr ""
+msgstr "一般"
 
 #: contents/ui/BottomBarViewComponent.qml:71
 #, kde-format
@@ -30,13 +31,12 @@ msgstr "輸入查詢或說「Hey Mycroft」"
 #: contents/ui/config/configGeneral.qml:45
 #, kde-format
 msgid "Websocket Address:"
-msgstr ""
+msgstr "Websocket 地址："
 
 #: contents/ui/config/configGeneral.qml:53
-#, fuzzy, kde-format
-#| msgid "Card Settings:"
+#, kde-format
 msgid "Additional Settings:"
-msgstr "卡片設定："
+msgstr "額外設定："
 
 #: contents/ui/config/configGeneral.qml:54
 #, kde-format
@@ -46,7 +46,7 @@ msgstr "開啟通知"
 #: contents/ui/config/configGeneral.qml:60
 #, kde-format
 msgid "Enable Remote TTS"
-msgstr ""
+msgstr "啟用遠端 TTS"
 
 #: contents/ui/FullRepresentation.qml:85
 #, kde-format
@@ -54,8 +54,7 @@ msgid "Conversation"
 msgstr "對話"
 
 #: contents/ui/FullRepresentation.qml:91
-#, fuzzy, kde-format
-#| msgid "Hints/Tips"
+#, kde-format
 msgid "Hints & Tips"
 msgstr "提示"
 
@@ -80,16 +79,14 @@ msgid "Mycroft"
 msgstr "Mycroft"
 
 #: contents/ui/TopBarViewComponent.qml:99
-#, fuzzy, kde-format
-#| msgid "Reconnect"
+#, kde-format
 msgid "Disconnected"
-msgstr "重新連線"
+msgstr "已斷線"
 
 #: contents/ui/TopBarViewComponent.qml:120
-#, fuzzy, kde-format
-#| msgid "Reconnect"
+#, kde-format
 msgid "Connect"
-msgstr "重新連線"
+msgstr "連線"
 
 #: contents/ui/TopBarViewComponent.qml:138
 #, kde-format
