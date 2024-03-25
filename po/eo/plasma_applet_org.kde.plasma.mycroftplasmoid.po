@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: mycroft-plasmoid\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-11-05 12:41+0000\n"
-"PO-Revision-Date: 2024-02-26 21:30+0100\n"
+"PO-Revision-Date: 2024-03-24 10:34+0100\n"
 "Last-Translator: Oliver Kellogg <okellogg@users.sourceforge.net>\n"
 "Language-Team: Esperanto <kde-i18n-eo.org>\n"
 "Language: eo\n"
@@ -26,7 +26,7 @@ msgstr "Ĝenerala"
 #: contents/ui/BottomBarViewComponent.qml:71
 #, kde-format
 msgid "Enter Query or Say 'Hey Mycroft'"
-msgstr ""
+msgstr "Enigi Demandon aŭ Diri 'Hej Mycroft'"
 
 #: contents/ui/config/configGeneral.qml:45
 #, kde-format
@@ -56,17 +56,17 @@ msgstr "Konversacio"
 #: contents/ui/FullRepresentation.qml:91
 #, kde-format
 msgid "Hints & Tips"
-msgstr ""
+msgstr "Konsiloj kaj Konsiloj"
 
 #: contents/ui/FullRepresentation.qml:97
 #, kde-format
 msgid "Skill Browser"
-msgstr ""
+msgstr "Kapabla Retumilo"
 
 #: contents/ui/SkillsInstallerComponent.qml:98
 #, kde-format
 msgid "Search Skills"
-msgstr ""
+msgstr "Serĉaj Kapabloj"
 
 #: contents/ui/SkillsInstallerComponent.qml:116
 #, kde-format
@@ -76,7 +76,7 @@ msgstr "Refreŝigi Listo"
 #: contents/ui/TopBarViewComponent.qml:73
 #, kde-format
 msgid "Mycroft"
-msgstr ""
+msgstr "Mycroft"
 
 #: contents/ui/TopBarViewComponent.qml:99
 #, kde-format
@@ -91,4 +91,4 @@ msgstr "Konekti"
 #: contents/ui/TopBarViewComponent.qml:138
 #, kde-format
 msgid "Toggle Mic"
-msgstr ""
+msgstr "Baskuligi mikrofonon"
